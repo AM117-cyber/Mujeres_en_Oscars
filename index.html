@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
       <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
   </head>
   <body>
     <head>
@@ -30,7 +32,7 @@
     
     <div class="container">
       <img src="mujer-oscars.jpg" alt="Your Image">
-      <div class="centered">Presencia de la Mujer en los Roles de Dirección, Música, Guion y Producción en los Premios “Oscar”</div>
+      <div class="centered">Presencia de la Mujer en los Roles de Dirección, Música, Guion y Producción en los Premios Óscar</div>
     </div>
     
     </body>
@@ -39,10 +41,56 @@
   <section style="padding-top:20px;">
     <div style="margin: auto; max-width: 1000px;">
         <p style="margin: 48px 0; margin-bottom: 0px; font-weight: normal; color: gray;">
-        La presencia de la mujer cada vez es más relevante en los roles de Dirección, Música, Guion y Producción de películas en la industria de Hollywood. Aun cuando las cifras de premiadas todavía están lejos de los galardones obtenidos por los hombres en la historia de los Premios “Oscar”, repasamos el papel de la mujer en los mayores galardones del cine.
-        Desde la primera ceremonia, celebrada en mayo de 1929, las mujeres han luchado por su lugar en la industria cinematográfica. Aunque el camino ha sido largo y desafiante, han logrado avances significativos en roles de dirección, música, guion y producción.
+          El 9 de julio de 2023 se estrenó ‘Barbie’, filme dirigido por Greta Gerwig que se convertiría en la película con mayores ingresos del 2023, recaudando 1.4 billones en taquilla. En la 81. ͣ entrega de los Globos de Oro estuvo nominada para 9 premios, lo que la convierte en la segunda película más nominada en la historia de los Globos de Oro, siendo la primera ‘Nashville’. A la espera de la 96. ͣ edición de los Premios Óscar, que debe realizarse el 10 de marzo de este año, se anticipa una nominación para Gerwig en la categoría de "Mejor Dirección" tras el increíble recibimiento que ha tenido su filme. Esta sería la segunda vez que es nominada para un premio en esta categoría, puesto que en el 2017 recibió una nominación por el filme ‘Lady Bird’, siendo la segunda mujer después de Jane Campion en ser seleccionada como candidata en más de una ocasión para un Óscar en esta categoría.
         </p>
+        <div class="image-container">
+      <style>
+        .image-container {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+        }
+        .image-block {
+          margin: 10px;
+        }
+      </style>
+      <div class="image-container">
+        <div class="image-block">
+    <div>
+      <img src='Lina.png' alt='Lina Wertmüller' style="width: 250px; height: 300px;">
+      <p>Lina Wertmüller</p>
     </div>
+    
+    <div>
+      <img src='Sofia.png' alt='Sofia Coppola' style="width: 290px; height: 300px;">
+      <p>Sofia Coppola</p>
+    </div>
+    
+    <div>
+      <img src='Kathryn.png' alt='Kathryn Bigelow' style="width: 300px; height: 280px;">
+      <p>Kathryn Bigelow</p>
+    </div>
+
+    <div>
+      <img src='Greta.png' alt='Greta Gerwig' style="width: 250px; height: 300px;">
+      <p>Greta Gerwig</p>
+    </div>
+    
+    <div>
+      <img src='Emerald.png' alt='Emerald Fennell' style="width: 300px; height: 290px;">
+      <p>Emerald Fennell</p>
+    </div>
+
+    <div>
+      <img src='Chloé.png' alt='Chloé Zhao' style="width: 300px; height: 300px;">
+      <p>Chloé Zhao</p>
+    </div>
+  </div>
+    
+    
+    
+
+
   </section>
   
       <style>
@@ -57,12 +105,12 @@
           #statueComponent {
               width: 100px; /* height * aspectRatio */
               height: 250px;
-              background-color: pink;
+              background-color: rgba(244, 0, 122, 0.6);
               text-align: center;
           }
           #statueComponent .malePercentage {
               height: 50%; /* malePercentage * height */
-              background-color: blue;
+              background-color: rgb(0, 0, 255);
           }
           #statueComponent img {
               height: 250px;
@@ -78,48 +126,85 @@
       <section style="padding-top: 20px;">
         <div style="margin: auto; max-width: 1000px;">
             <p style="font-weight: normal; margin-left: 5px; color: gray;">
-              Tras un análisis del comportamiento de las nominaciones y premiaciones en las categorías referidas durante los últimos 50 años y dentro de ellas las del sexo femenino, se obtuvo como resultado que en total han sido nominadas 685 mujeres, de ellas 124 han resultado ganadoras, lo que representa el 18%.
-              En todos estos años, entre más de 400 directores, sólo siete mujeres han sido nominadas a "Mejor Dirección" en los Premios Oscar y de ellas sólo tres han ganado.
-              Entre las nominaciones a esta categoría cuentan: Lina Wertmüller por “Seven Beauties” en 1977, Jane Campion por “The Piano” en 1994 y “The Power of the Dog” en 2022, Sofia Coppola por “Lost in Translation” en 2003, Kathryn Bigelow por “The Hurt Locker” en 2010, Greta Gerwig por “Lady Bird” en 2017, Emerald Fennell por “Promising Young Woman” en 2021, Chloé Zhao por “Nomadland” en 2021. 
+              Tras un análisis del comportamiento de las nominaciones y premiaciones en las categorías relacionadas con la música, el guión, producción y dirección durante los últimos 50 años y dentro de ellas las del sexo femenino, se obtuvo como resultado que en total han sido nominadas a los Óscar 685 mujeres, de ellas 124 han resultado ganadoras, lo que representa el 18%.
+              En todos estos años, entre más de 400 directores, sólo siete mujeres han sido nominadas a "Mejor Dirección" y de ellas sólo tres han ganado.
+              Entre las nominaciones a esta categoría cuentan: Lina Wertmüller por “Seven Beauties” en 1977, Jane Campion por “The Piano” en 1994 y “The Power of the Dog” en 2022, Sofia Coppola por “Lost in Translation” en 2003, Kathryn Bigelow por “The Hurt Locker” en 2010, Greta Gerwig por “Lady Bird” en 2017, Emerald Fennell por “Promising Young Woman” en 2021 y Chloé Zhao por “Nomadland” en 2021. 
               Las tres mujeres galardonadas son: Kathryn Bigelow por “The Hurt Locker” en 2010, Chloé Zhao por “Nomadland” en 2021 y Jane Campion por “The Power of the Dog” en 2022.
             </p>
         </div>
       </section>
     </div>
-    <div class="chart">
+   <div class="chart">
       <title>Componente de Estatua por Fecha</title>
-      <div style="display: flex; width: fit-content; flex-direction: column; align-items: center; padding-top: 80px;">
-        <div>
-            <label>
-                Año Inicial:
-                <input id="startYear" style="margin-left: 5px; width: 50px;" type="number" min="1973" max="2022" value="1973">
-            </label>
-            <label>
-                Año Final:
-                <input id="endYear" style="margin-left: 5px; width: 50px;" type="number" min="1974" max="2023" value="2023">
-            </label>
-        </div>
-        <div id="statueComponent" style="margin-top: 10px;">
-            <div class="malePercentage">
-                <img src="award.png">
-            </div>
-            <div class="percentageLabel"><span>50</span> %</div>
-        </div>
-        <section style="padding-top: 20px;">
-          <div style="margin: auto; max-width: 1000px;">
-              <p style="font-weight: normal; font-size:small; align-items: center; color: gray;">
-                Gráfico interactivo mostrando el porciento de mujeres ganadoras de un premio Oscar con respecto a las nominadas en el rango de años seleccionado
-              </p>
+      <div style="display: flex; flex-direction: column; align-items: center; padding-top: 80px;">
+          <div style="display: flex; justify-content: space-between; width: 100%;">
+              <label>
+                  Año Inicial:
+                  <input id="startYear" style="margin-left: 5px; width: 50px;" type="number" min="1973" max="2022" value="1973">
+              </label>
+              <label>
+                  Año Final:
+                  <input id="endYear" style="margin-right: 70px; width: 50px;" type="number" min="1974" max="2023" value="2023">
+              </label>
           </div>
-        </section>
+          <div style="text-align: center;display: flex;flex-direction: row;">
+            <div><input type="checkbox" id="ganadores" name="ganadores"><label for="ganadores" style="color:darkslategrey; font-weight: normal; ">Ganadores</label></div>
+            <div><input type="checkbox" id="direccion" name="direccion"><label for="direccion" style="color: darkslategrey; font-weight: normal; ">Dirección</label></div>
+            <div><input type="checkbox" id="produccion" name="produccion"><label for="produccion" style="color: darkslategrey; font-weight: normal; ">Producción</label></div>
+            <div><input type="checkbox" id="guion" name="guion"><label for="guion" style="color: darkslategrey; font-weight: normal; ">Guion</label></div>
+            <div><input type="checkbox" id="musica" name="musica"><label for="musica" style="color: darkslategrey; font-weight: normal; ">Música</label></div>
+        </div>
+        
+          <div id="statueComponent" style="margin-top: 10px;">
+              <div class="malePercentage">
+                  <img src="award.png">
+              </div>
+              <div class="percentageLabel" style="font-size: 11px; color:white; margin-top: -1.6px;"><span>50</span> %</div>
+          </div>
+          <section style="padding-top: 20px;">
+              <div style="margin: auto; max-width: 1000px;">
+                  <p style="font-weight: normal; font-size:small; align-items: center; color: gray;">
+                      Gráfico interactivo mostrando el porciento de mujeres nominadas a un premio Oscar con respecto a los hombres nominados en el rango de años seleccionado
+                  </p>
+              </div>
+          </section>
       </div>
-    </div>
+  </div>
   </div>
 
-  
-  
-     
-  
+  <section style="padding-top:20px;">
+    <div style="margin: auto; max-width: 1000px;">
+        <p style="margin: 48px 0; margin-bottom: 0px; font-weight: normal; color: gray;">
+          Al analizar el comportamiento en estas categorías es fácil observar que la que tiene un mayor número para las féminas es la relacionada con la música de los filmes, mientras la que peor se comporta es la de dirección, con solo 7 mujeres nominadas en total, 6 de ellas una única vez y la séptima con dos nominaciones. 
+        </p>
+      </div>
+    </section>
+
+  <div style="display: flex; flex-direction: row; margin-top: 20px;">
+  <select id="categorySelect" style="display: flex; justify-content: space-between; width: 80px; margin-left: 100px;">
+    <option value="directing" style="font-size: smaller;">Directing</option>
+    <option value="program" style="font-size: smaller;">Program</option>
+    <option value="writing" style="font-size: smaller;">Writing</option>
+    <option value="music" style="font-size: smaller;">Music</option>
+</select>
+<select id="genderSelect" style="display: flex; justify-content: space-between; width: 80px; margin-left: 10px;">
+  <option value="female" style="font-size: smaller;">Mujeres</option>
+  <option value="male" style="font-size: smaller;">Hombres</option>
+</select>
+</div>
+</div>
+<div>
+  <canvas id="myChart" style="max-height: 250px; max-width: 450px;"></canvas>
+<section style="padding-top: 20px;">
+  <div style="position: relative; max-width: 400px; margin-left: 30px; margin-top: -10px;">
+    <canvas id="myChart" style="max-height: 200px; max-width: 450px;"></canvas>
+    <p style="position: absolute; top: 0; left: 0; right: 0; font-weight: normal; font-size:small; color: gray; text-align: center;">
+      Gráfico con los top 10 nominados en la categoría seleccionada teniendo en cuenta el género
+    </p>
+  </div>
+</section>
+</div>
+
   <h2 style="color: blue-gray; margin-top: 32px; padding-left:32px; margin-bottom: 24px;">
     El número de mujeres ganadoras va en aumento
   </h2>
@@ -184,6 +269,111 @@
   
   
   <body>
+    <script>
+      let topStaff;
+      fetch('oscar_general.json')
+          .then(response => response.json())
+          .then(jsonData => {
+              topStaff = getTopStaff(jsonData, 'female'); // Default to 'female'
+              createChart(topStaff);
+          });
+      
+      function getTopStaff(jsonData, gender) {
+          let counts = {};
+      
+          for (let year in jsonData) {
+              for (let category in jsonData[year]) {
+                  for (let staff_member in jsonData[year][category]) {
+                      let staffData = jsonData[year][category][staff_member];
+                      if (staffData.gender === gender) {
+                          if (!counts[category]) {
+                              counts[category] = {};
+                          }
+                          if (!counts[category][staff_member]) {
+                              counts[category][staff_member] = 0;
+                          }
+                          counts[category][staff_member]++;
+                      }
+                  }
+              }
+          }
+      
+          let topStaff = {};
+          for (let category in counts) {
+              let staffCounts = Object.entries(counts[category]);
+              staffCounts.sort((a, b) => b[1] - a[1]);
+              topStaff[category] = staffCounts.slice(0, 10);
+          }
+      
+          return topStaff;
+      }
+      function createChart(topStaff) {
+          // Get the selected category
+          let selectedCategory = document.getElementById('categorySelect').value;
+      
+          // Get the selected gender
+          let selectedGender = document.getElementById('genderSelect').value;
+      
+          // Get the context of the canvas element we want to select
+          var ctx = document.getElementById('myChart').getContext('2d');
+      
+          // Clear any existing chart
+          if (window.myChart instanceof Chart) {
+              window.myChart.destroy();
+          }
+      
+          let labels = [];
+          let data = [];
+          for (let i = 0; i < topStaff[selectedCategory].length; i++) {
+              labels.push(topStaff[selectedCategory][i][0]); // staff member's name
+              data.push(topStaff[selectedCategory][i][1]); // staff member's count
+          }
+      
+          // Set the color based on the selected gender
+          let color = selectedGender === 'male' ? 'rgb(0, 0, 255)' : 'rgba(244, 0, 122, 0.6)'; // Blue for male, pink for female
+          let border = selectedGender === 'male' ? 'rgba(7, 3, 216,3)' : 'rgba(244, 0, 122, 1.3)'; // Blue for male, pink for female
+          // Create the chart
+          window.myChart = new Chart(ctx, {
+              type: 'bar',
+              data: {
+                  labels: labels,
+                  datasets: [{
+                      label: selectedCategory,
+                      data: data,
+                      backgroundColor: color,
+                      borderColor: border,
+                      borderWidth: 1.5
+                  }]
+              },
+              options: {
+                  scales: {
+                      y: {
+                          beginAtZero: true,
+                          grid: {
+                              display: false // Hide the grid lines
+                          }
+                      },
+                      x: {
+                          grid: {
+                              display: false // Hide the grid lines
+                          }
+                      }
+                  }
+              }
+          });
+      }
+      // Update the chart when the selected category or gender changes
+      document.getElementById('categorySelect').addEventListener('change', updateChart);
+      document.getElementById('genderSelect').addEventListener('change', updateChart);
+      
+      function updateChart() {
+          let selectedGender = document.getElementById('genderSelect').value;
+          topStaff = getTopStaff(jsonData, selectedGender);
+          createChart(topStaff);
+      }
+      
+      </script>
+        
       <script>
     
         // Your component code
@@ -192,7 +382,7 @@
             directing: 'Dirección',
             program: 'Producción',
             music: 'Música',
-            writing: 'Guión'
+            writing: 'Guion'
           }
         
           let result = [];
@@ -267,38 +457,58 @@
           updateGraph();
       });
   
-  function calculateMalePercentage(startYear, endYear) {
-      var total = 0;
-      var maleCount = 0;
-      for (var year in jsonData) {
-          if (+year >= startYear && +year <= endYear) {
-              for (var category in jsonData[year]) {
-                  for (var nominee in jsonData[year][category]) {
-                      if (jsonData[year][category][nominee].gender === 'male') {
-                          maleCount++;
-                      }
-                      total++;
+      function calculateMalePercentage(startYear, endYear) {
+    var total = 0;
+    var maleCount = 0;
+    for (var year in jsonData) {
+        if (+year >= startYear && +year <= endYear) {
+            for (var category in jsonData[year]) {
+                for (var nominee in jsonData[year][category]) {
+                    var ganadoresCondition = !document.getElementById('ganadores').checked || jsonData[year][category][nominee].winner === true;
+                    var condition = ganadoresCondition;
+                  if (document.getElementById('direccion').checked || document.getElementById('produccion').checked || document.getElementById('guion').checked || document.getElementById('musica').checked) {
+                    // Check each condition only if the corresponding checkbox is selected
+                    var direccionCondition = document.getElementById('direccion').checked && category === 'directing';
+                    var produccionCondition = document.getElementById('produccion').checked && category === 'program';
+                    var guionCondition = document.getElementById('guion').checked && category === 'writing';
+                    var musicaCondition = document.getElementById('musica').checked && category === 'music';
+                    condition = ganadoresCondition && (direccionCondition || produccionCondition || guionCondition || musicaCondition);
                   }
-              }
-          }
-      }
-      return maleCount / total;
-  }
-  
-  function updateGraph() {
-      var startYearInput = document.getElementById('startYear');
-      var endYearInput = document.getElementById('endYear');
-      var startYear = Math.min(Math.max(+startYearInput.value, 1973), 2022);
-      var endYear = Math.max(Math.min(+endYearInput.value, 2023), 1974);
-      var malePercentage = calculateMalePercentage(startYear, endYear);
-  
-      var statueComponent = document.getElementById('statueComponent');
-      statueComponent.querySelector('.malePercentage').style.height = (malePercentage * 100) + '%';
-      statueComponent.querySelector('.percentageLabel span').textContent = Math.round((1 - malePercentage) * 100);
-  }
-  
-  document.getElementById('startYear').addEventListener('change', updateGraph);
-  document.getElementById('endYear').addEventListener('change', updateGraph);
+                    // Count the nominee only if all selected conditions are met
+                    if(condition) {
+                        if (jsonData[year][category][nominee].gender === 'male') {
+                            maleCount++;
+                        }
+                        total++;
+                    }
+                }
+            }
+        }
+    }
+    return total === 0 ? 0 : maleCount / total;
+}
+
+
+function updateGraph() {
+    var startYearInput = document.getElementById('startYear');
+    var endYearInput = document.getElementById('endYear');
+    var startYear = Math.min(Math.max(+startYearInput.value, 1973), 2022);
+    var endYear = Math.max(Math.min(+endYearInput.value, 2023), 1974);
+    var malePercentage = calculateMalePercentage(startYear, endYear);
+
+    var statueComponent = document.getElementById('statueComponent');
+    statueComponent.querySelector('.malePercentage').style.height = (malePercentage * 100) + '%';
+    statueComponent.querySelector('.percentageLabel span').textContent = Math.round((1 - malePercentage) * 100);
+}
+
+document.getElementById('startYear').addEventListener('change', updateGraph);
+document.getElementById('endYear').addEventListener('change', updateGraph);
+document.getElementById('ganadores').addEventListener('change', updateGraph);
+document.getElementById('direccion').addEventListener('change', updateGraph);
+document.getElementById('produccion').addEventListener('change', updateGraph);
+document.getElementById('guion').addEventListener('change', updateGraph);
+document.getElementById('musica').addEventListener('change', updateGraph);
+
   </script>
   </body>
   </html>

@@ -1379,7 +1379,7 @@
                 "winner": true,
                 "gender": "male"
             },
-            "Lina Wertm\u00c3\u00bcller": {
+            "Lina Wertmüller": {
                 "name_of_work": "Seven Beauties",
                 "winner": false,
                 "gender": "female"
@@ -1672,7 +1672,7 @@
                 "winner": false,
                 "gender": "male"
             },
-            "Lina Wertm\u00c3\u00bcller": {
+            "Lina Wertmüller": {
                 "name_of_work": "Seven Beauties",
                 "winner": false,
                 "gender": "female"
@@ -8924,7 +8924,7 @@
             "Spike Jonze": {
                 "name_of_work": "Being John Malkovich",
                 "winner": false,
-                "gender": "female"
+                "gender": "male"
             },
             "Lasse Hallstr\u00c3\u00b6m": {
                 "name_of_work": "The Cider House Rules",
@@ -9131,7 +9131,7 @@
                 "winner": false,
                 "gender": "female"
             },
-            "Amanda Forbi": {
+            "Amanda Forbis": {
                 "name_of_work": "When the Day Breaks",
                 "winner": false,
                 "gender": "female"
@@ -13908,7 +13908,7 @@
                 "winner": false,
                 "gender": "female"
             },
-            "Amanda Forbi": {
+            "Amanda Forbis": {
                 "name_of_work": "Wild Life",
                 "winner": false,
                 "gender": "female"
@@ -14736,7 +14736,7 @@
             "Spike Jonze": {
                 "name_of_work": "\"The Moon Song\" from Her",
                 "winner": false,
-                "gender": "female"
+                "gender": "male"
             },
             "Paul Hewson": {
                 "name_of_work": "\"Ordinary Love\" from Mandela: Long Walk to Freedom",
@@ -14813,7 +14813,7 @@
             "Spike Jonze": {
                 "name_of_work": "Her",
                 "winner": false,
-                "gender": "female"
+                "gender": "male"
             },
             "Vincent Landay": {
                 "name_of_work": "Her",
@@ -15056,7 +15056,7 @@
             "Spike Jonze": {
                 "name_of_work": "Her",
                 "winner": true,
-                "gender": "female"
+                "gender": "male"
             },
             "Bob Nelson": {
                 "name_of_work": "Nebraska",
@@ -18391,7 +18391,7 @@
                 "winner": false,
                 "gender": "male"
             },
-            "Chlo\u00c3\u00a9 Zhao": {
+            "Chloé Zhao": {
                 "name_of_work": "Nomadland",
                 "winner": true,
                 "gender": "female"
@@ -18629,7 +18629,7 @@
                 "winner": true,
                 "gender": "male"
             },
-            "Chlo\u00c3\u00a9 Zhao": {
+            "Chloé Zhao": {
                 "name_of_work": "Nomadland",
                 "winner": true,
                 "gender": "female"
@@ -18825,7 +18825,7 @@
                 "winner": true,
                 "gender": "male"
             },
-            "Chlo\u00c3\u00a9 Zhao": {
+            "Chloé Zhao": {
                 "name_of_work": "Nomadland",
                 "winner": false,
                 "gender": "female"
@@ -19895,7 +19895,7 @@
                 "winner": true,
                 "gender": "male"
             },
-            "Amanda Forbi": {
+            "Amanda Forbis": {
                 "name_of_work": "The Flying Sailor",
                 "winner": false,
                 "gender": "female"
