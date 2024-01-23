@@ -54,7 +54,89 @@
           margin: 10px;
         }
       </style>
-      <div class="image-container">
+
+  </section>
+  
+      <style>
+          .container {
+              display: flex;
+              justify-content: space-between;
+          }
+          .text, .chart {
+              flex: 1;
+              margin: 10px;
+          }
+          #statueComponent {
+              width: 120px; /* height * aspectRatio */
+              height: 300px;
+              background-color: rgba(244, 0, 122, 0.6);
+              text-align: center;
+          }
+          #statueComponent .malePercentage {
+              height: 50%; /* malePercentage * height */
+              background-color: rgb(0, 0, 255);
+          }
+          #statueComponent img {
+              height: 300px;
+              margin: auto;
+          }
+          #statueComponent .percentageLabel {
+              margin: auto;
+          }
+      </style>
+
+  <div class="container">
+    <div class="text">
+      <section style="padding-top: 20px;">
+          <div style="margin: auto; max-width: 1000px; text-align: justify;">
+              <p style="font-weight: normal; margin-left: 5px; color: gray;">
+                Tras un análisis del comportamiento de las nominaciones y premiaciones en las categorías relacionadas con la música, el guión, producción y dirección durante los últimos 50 años y dentro de ellas las del sexo femenino, se obtuvo como resultado que en total han sido nominadas a los Óscar 685 mujeres, de ellas 124 han resultado ganadoras, lo que representa el 18%.
+                En todos estos años, entre más de 400 directores, sólo siete mujeres han sido nominadas a "Mejor Dirección" y de ellas sólo tres han ganado.
+                Entre las nominaciones a esta categoría cuentan: Lina Wertmüller por ‘Seven Beauties’ en 1976, Jane Campion por ‘The Piano’ en 1993 y ‘The Power of the Dog’ en 2021, Sofia Coppola por ‘Lost in Translation’ en 2003, Kathryn Bigelow por ‘The Hurt Locker’ en 2009, Greta Gerwig por ‘Lady Bird’ en 2017, Emerald Fennell por ‘Promising Young Woman’ en 2020 y Chloé Zhao por ‘Nomadland’ en 2020. 
+                Las tres mujeres galardonadas son: Kathryn Bigelow por ‘The Hurt Locker’ en 2009, Chloé Zhao por ‘Nomadland’ en 2020 y Jane Campion por ‘The Power of the Dog’ en 2021.
+              </p>
+          </div>
+      </section>
+  </div>  
+   <div class="chart">
+      <title>Componente de Estatua por Fecha</title>
+      <div style="display: flex; flex-direction: column; align-items: center; padding-top: 40px;">
+          <div style="display: flex; justify-content: space-between; width: 100%;">
+              <label>
+                  Año Inicial:
+                  <input id="startYear" style="margin-left: 5px; width: 50px;" type="number" min="1973" max="2022" value="1973">
+              </label>
+              <label>
+                  Año Final:
+                  <input id="endYear" style="margin-right: 70px; width: 50px;" type="number" min="1974" max="2023" value="2023">
+              </label>
+          </div>
+          <div style="text-align: center;display: flex;flex-direction: row;">
+            <div><input type="checkbox" id="ganadores" name="ganadores"><label for="ganadores" style="color:darkslategrey; font-weight: normal; ">Ganadores</label></div>
+            <div><input type="checkbox" id="direccion" name="direccion"><label for="direccion" style="color: darkslategrey; font-weight: normal; ">Dirección</label></div>
+            <div><input type="checkbox" id="produccion" name="produccion"><label for="produccion" style="color: darkslategrey; font-weight: normal; ">Producción</label></div>
+            <div><input type="checkbox" id="guion" name="guion"><label for="guion" style="color: darkslategrey; font-weight: normal; ">Guion</label></div>
+            <div><input type="checkbox" id="musica" name="musica"><label for="musica" style="color: darkslategrey; font-weight: normal; ">Música</label></div>
+        </div>
+        
+          <div id="statueComponent" style="margin-top: 10px;">
+              <div class="malePercentage">
+                  <img src="award.png">
+              </div>
+              <div class="percentageLabel" style="font-size: 14px; color: gold; font-weight: bold; margin-top: -1.6px;"><span>50</span> %</div>
+          </div>
+          <section>
+              <div style="margin: auto; max-width: 1000px;">
+                  <p style="font-weight: normal; font-size:small; align-items: center; color: gray;">
+                      Gráfico interactivo mostrando el porciento de mujeres nominadas a un premio Oscar con respecto a los hombres nominados en el rango de años seleccionado
+                  </p>
+              </div>
+          </section>
+      </div>
+  </div>
+  </div>
+
+  <div class="image-container">
     <div style="text-align: center;">
       <img src='Lina.png' alt='Lina Wertmüller' style="width: 250px; height: 300px; margin-top: 20px">
       <p>Lina Wertmüller</p>
@@ -92,91 +174,6 @@
     </div>
   </div>
     
-    
-    
-
-
-  </section>
-  
-      <style>
-          .container {
-              display: flex;
-              justify-content: space-between;
-          }
-          .text, .chart {
-              flex: 1;
-              margin: 10px;
-          }
-          #statueComponent {
-              width: 100px; /* height * aspectRatio */
-              height: 250px;
-              background-color: rgba(244, 0, 122, 0.6);
-              text-align: center;
-          }
-          #statueComponent .malePercentage {
-              height: 50%; /* malePercentage * height */
-              background-color: rgb(0, 0, 255);
-          }
-          #statueComponent img {
-              height: 250px;
-              margin: auto;
-          }
-          #statueComponent .percentageLabel {
-              margin: auto;
-          }
-      </style>
-
-  <div class="container">
-    <div class="text">
-      <section style="padding-top: 20px;">
-        <div style="margin: auto; max-width: 1000px;">
-            <p style="font-weight: normal; margin-left: 5px; color: gray;">
-              Tras un análisis del comportamiento de las nominaciones y premiaciones en las categorías relacionadas con la música, el guión, producción y dirección durante los últimos 50 años y dentro de ellas las del sexo femenino, se obtuvo como resultado que en total han sido nominadas a los Óscar 685 mujeres, de ellas 124 han resultado ganadoras, lo que representa el 18%.
-              En todos estos años, entre más de 400 directores, sólo siete mujeres han sido nominadas a "Mejor Dirección" y de ellas sólo tres han ganado.
-              Entre las nominaciones a esta categoría cuentan: Lina Wertmüller por “Seven Beauties” en 1977, Jane Campion por “The Piano” en 1994 y “The Power of the Dog” en 2022, Sofia Coppola por “Lost in Translation” en 2003, Kathryn Bigelow por “The Hurt Locker” en 2010, Greta Gerwig por “Lady Bird” en 2017, Emerald Fennell por “Promising Young Woman” en 2021 y Chloé Zhao por “Nomadland” en 2021. 
-              Las tres mujeres galardonadas son: Kathryn Bigelow por “The Hurt Locker” en 2010, Chloé Zhao por “Nomadland” en 2021 y Jane Campion por “The Power of the Dog” en 2022.
-            </p>
-        </div>
-      </section>
-    </div>
-   <div class="chart">
-      <title>Componente de Estatua por Fecha</title>
-      <div style="display: flex; flex-direction: column; align-items: center; padding-top: 80px;">
-          <div style="display: flex; justify-content: space-between; width: 100%;">
-              <label>
-                  Año Inicial:
-                  <input id="startYear" style="margin-left: 5px; width: 50px;" type="number" min="1973" max="2022" value="1973">
-              </label>
-              <label>
-                  Año Final:
-                  <input id="endYear" style="margin-right: 70px; width: 50px;" type="number" min="1974" max="2023" value="2023">
-              </label>
-          </div>
-          <div style="text-align: center;display: flex;flex-direction: row;">
-            <div><input type="checkbox" id="ganadores" name="ganadores"><label for="ganadores" style="color:darkslategrey; font-weight: normal; ">Ganadores</label></div>
-            <div><input type="checkbox" id="direccion" name="direccion"><label for="direccion" style="color: darkslategrey; font-weight: normal; ">Dirección</label></div>
-            <div><input type="checkbox" id="produccion" name="produccion"><label for="produccion" style="color: darkslategrey; font-weight: normal; ">Producción</label></div>
-            <div><input type="checkbox" id="guion" name="guion"><label for="guion" style="color: darkslategrey; font-weight: normal; ">Guion</label></div>
-            <div><input type="checkbox" id="musica" name="musica"><label for="musica" style="color: darkslategrey; font-weight: normal; ">Música</label></div>
-        </div>
-        
-          <div id="statueComponent" style="margin-top: 10px;">
-              <div class="malePercentage">
-                  <img src="award.png">
-              </div>
-              <div class="percentageLabel" style="font-size: 11px; color:white; margin-top: -1.6px;"><span>50</span> %</div>
-          </div>
-          <section style="padding-top: 20px;">
-              <div style="margin: auto; max-width: 1000px;">
-                  <p style="font-weight: normal; font-size:small; align-items: center; color: gray;">
-                      Gráfico interactivo mostrando el porciento de mujeres nominadas a un premio Oscar con respecto a los hombres nominados en el rango de años seleccionado
-                  </p>
-              </div>
-          </section>
-      </div>
-  </div>
-  </div>
-
   <section style="padding-top:20px;">
     <div style="margin: auto; max-width: 1000px;">
         <p style="margin: 48px 0; margin-bottom: 0px; font-weight: normal; color: gray;">
@@ -253,11 +250,14 @@
     <br />
 </p>
 
-<div style="padding: 80px 16px;">
+<div style="bottom: 0; width: 100%; background-color: pink; border-radius: 10px;">
+  <p style="color: black; margin-left: 5px;">Metodología:
+    Se extrajeron los datos relacionados con los nominados a los Premios Óscar en las categorías analizadas en el artículo del sitio: <a href="https://www.oscars.org/oscars/awards-databases">https://www.oscars.org/oscars/awards-databases</a>. Posteriormente estos datos fueron llevados a un json con el uso de un programa en python.</p>
+
+
+<div>
     <div style="display: flex; justify-content: space-between;">
-        <div style="margin-bottom: 16px; display: flex; gap: 20px; max-width: 540px;">
-            <div style="height: 100%; margin-bottom: 12px; width: 100%; max-height: 64px; max-width: 64px; border-radius: 50%;">
-            </div>
+        <div style="margin-bottom: 16px; display: flex;max-width: 540px; margin-left: 5px;">
             <div>
                 <h5 style="margin-bottom: 16px; color: blue-gray;">
                     Ana Melissa Alonso Reina
@@ -268,6 +268,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
   
