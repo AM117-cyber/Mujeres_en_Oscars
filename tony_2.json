@@ -1,0 +1,614 @@
+{
+    "2023": {
+        "writing": {
+            "sharon washington": {
+                "name_of_work": "New York, New York",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "jeanine tesori": {
+                "name_of_work": "Kimberly Akimbo",
+                "winner": true,
+                "gender": "male"
+            },
+            "helen park": {
+                "name_of_work": "KPOP",
+                "winner": false,
+                "gender": "male"
+            },
+            "brandy clark": {
+                "name_of_work": "Shucked",
+                "winner": false,
+                "gender": "male"
+            },
+            "carolyn downing": {
+                "name_of_work": "Life of Pi",
+                "winner": true,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "jo bonney": {
+                "name_of_work": "Cost of Living",
+                "winner": false,
+                "gender": "male"
+            },
+            "lear debessonet": {
+                "name_of_work": "Into the Woods",
+                "winner": false,
+                "gender": "male"
+            },
+            "jessica stone": {
+                "name_of_work": "Kimberly Akimbo",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2022": {
+        "writing": {
+            "lynn nottage": {
+                "name_of_work": "MJ The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "christina anderson": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lucy moss": {
+                "name_of_work": "Six",
+                "winner": true,
+                "gender": "male"
+            },
+            "amanda green": {
+                "name_of_work": "Mr. Saturday Night",
+                "winner": false,
+                "gender": "male"
+            },
+            "masi asare": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "male"
+            },
+            "palmer hefferan": {
+                "name_of_work": "The Skin of Our Teeth",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "camille a. brown": {
+                "name_of_work": "for colored girls who have considered suicide / when the rainbow is enuf",
+                "winner": false,
+                "gender": "male"
+            },
+            "lileana blain-cruz": {
+                "name_of_work": "The Skin of Our Teeth",
+                "winner": false,
+                "gender": "male"
+            },
+            "marianne elliott": {
+                "name_of_work": "Company",
+                "winner": true,
+                "gender": "male"
+            },
+            "lucy moss": {
+                "name_of_work": "Six",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2020": {
+        "writing": {
+            "katori hall": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lindsay jones": {
+                "name_of_work": "Slave Play",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "diane paulus": {
+                "name_of_work": "Jagged Little Pill",
+                "winner": false,
+                "gender": "male"
+            },
+            "phyllida lloyd": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2019": {
+        "writing": {
+            "dominique morisseau": {
+                "name_of_work": "Ain't Too Proud",
+                "winner": false,
+                "gender": "male"
+            },
+            "anais mitchell": {
+                "name_of_work": "Hadestown",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "anais mitchell": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "male"
+            },
+            "jessica paz": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "rachel chavkin": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "male"
+            }
+        }
+    },
+    "2018": {
+        "music": {
+            "nell benjamin": {
+                "name_of_work": "Mean Girls",
+                "winner": false,
+                "gender": "male"
+            },
+            "yolanda adams": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "cyndi lauper": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "marianne elliott": {
+                "name_of_work": "Angels in America: Perestroika",
+                "winner": false,
+                "gender": "male"
+            },
+            "tina landau": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2017": {
+        "writing": {
+            "irene sankoff": {
+                "name_of_work": "Come From Away",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "irene sankoff": {
+                "name_of_work": "Come From Away",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "rebecca taichman": {
+                "name_of_work": "Indecent",
+                "winner": true,
+                "gender": "male"
+            },
+            "rachel chavkin": {
+                "name_of_work": "Natasha, Pierre & The Great Comet of 1812",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2016": {
+        "writing": {},
+        "music": {
+            "edie brickell": {
+                "name_of_work": "Bright Star",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "liesl tommy": {
+                "name_of_work": "Eclipsed",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2015": {
+        "writing": {
+            "lisa kron": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lisa kron": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "male"
+            },
+            "jeanine tesori": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "marianne elliott": {
+                "name_of_work": "The Curious Incident of the Dog in the Night-Time",
+                "winner": true,
+                "gender": "male"
+            }
+        }
+    },
+    "2013": {
+        "music": {
+            "cyndi lauper": {
+                "name_of_work": "Kinky Boots",
+                "winner": true,
+                "gender": "male"
+            },
+            "amanda green": {
+                "name_of_work": "Hands on a Hardbody",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "pam mackinnon": {
+                "name_of_work": "Who's Afraid of Virginia Woolf?",
+                "winner": true,
+                "gender": "male"
+            },
+            "diane paulus": {
+                "name_of_work": "Pippin",
+                "winner": true,
+                "gender": "male"
+            }
+        }
+    },
+    "2012": {
+        "directing": {
+            "pam mackinnon": {
+                "name_of_work": "Clybourne Park",
+                "winner": false,
+                "gender": "male"
+            },
+            "kathleen marshall": {
+                "name_of_work": "Nice Work If You Can Get It",
+                "winner": false,
+                "gender": "male"
+            },
+            "diane paulus": {
+                "name_of_work": "The Gershwins' Porgy and Bess",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2011": {
+        "writing": {
+            "cheri steinkellner": {
+                "name_of_work": "Sister Act",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "cricket s. myers": {
+                "name_of_work": "Bengal Tiger at the Baghdad Zoo",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "marianne elliott": {
+                "name_of_work": "War Horse",
+                "winner": true,
+                "gender": "male"
+            },
+            "anna d. shapiro": {
+                "name_of_work": "The Motherfucker with the Hat",
+                "winner": false,
+                "gender": "male"
+            },
+            "kathleen marshall": {
+                "name_of_work": "Anything Goes",
+                "winner": false,
+                "gender": "male"
+            },
+            "susan stroman": {
+                "name_of_work": "The Scottsboro Boys",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2010": {
+        "writing": {
+            "sherie rene scott": {
+                "name_of_work": "Everyday Rapture",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lucy prebble": {
+                "name_of_work": "Enron",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "sheryl kaller": {
+                "name_of_work": "Next Fall",
+                "winner": false,
+                "gender": "male"
+            },
+            "marcia milgrom dodge": {
+                "name_of_work": "Ragtime",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2009": {
+        "music": {
+            "jeanine tesori": {
+                "name_of_work": "Shrek The Musical",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "phyllida lloyd": {
+                "name_of_work": "Mary Stuart",
+                "winner": false,
+                "gender": "male"
+            },
+            "diane paulus": {
+                "name_of_work": "Hair",
+                "winner": false,
+                "gender": "male"
+            },
+            "kristin hanggi": {
+                "name_of_work": "Rock of Ages",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2008": {
+        "writing": {
+            "quiara alegría hudes": {
+                "name_of_work": "In the Heights",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "heidi rodewald": {
+                "name_of_work": "Passing Strange",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "anna d. shapiro": {
+                "name_of_work": "August: Osage County",
+                "winner": true,
+                "gender": "male"
+            },
+            "maria aitken": {
+                "name_of_work": "The 39 Steps",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2007": {
+        "writing": {
+            "heather hach": {
+                "name_of_work": "Legally Blonde",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "nell benjamin": {
+                "name_of_work": "Legally Blonde",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "melly still": {
+                "name_of_work": "Coram Boy",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2006": {
+        "directing": {
+            "kathleen marshall": {
+                "name_of_work": "The Pajama Game",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "marsha norman": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lisa lambert": {
+                "name_of_work": "The Drowsy Chaperone",
+                "winner": true,
+                "gender": "male"
+            },
+            "brenda russell": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "male"
+            },
+            "allee willis": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2005": {
+        "writing": {
+            "rachel sheinkin": {
+                "name_of_work": "The 25th Annual Putnam County Spelling Bee",
+                "winner": true,
+                "gender": "male"
+            }
+        }
+    },
+    "2004": {
+        "directing": {
+            "kathleen marshall": {
+                "name_of_work": "Wonderful Town",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "winnie holzman": {
+                "name_of_work": "Wicked",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "jeanine tesori": {
+                "name_of_work": "Caroline, or Change",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2003": {
+        "directing": {
+            "deborah warner": {
+                "name_of_work": "Medea",
+                "winner": false,
+                "gender": "male"
+            },
+            "twyla tharp": {
+                "name_of_work": "Movin' Out",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "sara light": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "lauren lucas": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "martie maguire": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "wanda mallette": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "patti ryan": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2002": {
+        "directing": {
+            "mary zimmerman": {
+                "name_of_work": "Metamorphoses",
+                "winner": true,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "catherine johnson": {
+                "name_of_work": "Mamma Mia!",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2001": {
+        "directing": {
+            "susan stroman": {
+                "name_of_work": "The Producers",
+                "winner": true,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "linda kline": {
+                "name_of_work": "A Class Act",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2000": {
+        "directing": {
+            "susan stroman": {
+                "name_of_work": "The Music Man",
+                "winner": false,
+                "gender": "male"
+            },
+            "lynne taylor-corbett": {
+                "name_of_work": "Swing!",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {}
+    }
+}

@@ -1,0 +1,1171 @@
+{
+    "2000": {
+        "writing": {
+            "robin green": {
+                "name_of_work": "the sopranos",
+                "winner": "false",
+                "gender": "female"
+            },
+            "cindy chupack": {
+                "name_of_work": "sex and the city",
+                "winner": "false",
+                "gender": "female"
+            }
+        }
+    },
+    "2001": {
+        "writing": {
+            "robin green": {
+                "name_of_work": "the sopranos",
+                "winner": "true",
+                "gender": "female"
+            }
+        },
+        "directing": {
+            "laura innes": {
+                "name_of_work": "the west wing",
+                "winner": "false",
+                "gender": "female"
+            }
+        }
+    },
+    "2002": {
+        "writing": {
+            "julie rottenberg": {
+                "name_of_work": "sex and the city",
+                "winner": "false",
+                "gender": "female"
+            },
+            "elisa zuritsky": {
+                "name_of_work": "sex and the city",
+                "winner": "false",
+                "gender": "female"
+            }
+        }
+    },
+    "2003": {
+        "writing": {
+            "robin green": {
+                "name_of_work": "the sopranos",
+                "winner": "false",
+                "gender": "female"
+            },
+            "cindy chupack": {
+                "name_of_work": "sex and the city",
+                "winner": "false",
+                "gender": "female"
+            }
+        }
+    },
+    "2004": {
+        "writing": {
+            "robin green": {
+                "name_of_work": "the sopranos",
+                "winner": "false",
+                "gender": "female"
+            },
+            "julie rottenberg": {
+                "name_of_work": "sex and the city",
+                "winner": "false",
+                "gender": "female"
+            },
+            "elisa zuritsky": {
+                "name_of_work": "sex and the city",
+                "winner": "false",
+                "gender": "female"
+            }
+        }
+    },
+    "2005": {
+        "writing": {
+            "barbie adler": {
+                "name_of_work": "arrested development",
+                "winner": "false",
+                "gender": "female"
+            },
+            "leslie caveny": {
+                "name_of_work": "everybody loves raymond",
+                "winner": "false",
+                "gender": "female"
+            }
+        }
+    },
+    "2006": {
+        "writing": {
+            "krista vernoff": {
+                "name_of_work": "grey's anatomy",
+                "winner": "false",
+                "gender": "male"
+            },
+            "shonda rhimes": {
+                "name_of_work": "grey's anatomy",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "mitzie welch": {
+                "name_of_work": "once upon a mattress",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2007": {
+        "writing": {
+            "tina fey": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "directing": {},
+        "music": {
+            "jan stevens": {
+                "name_of_work": "scrubs",
+                "winner": "false",
+                "gender": "female"
+            },
+            "katreese barnes": {
+                "name_of_work": "saturday night live",
+                "winner": "true",
+                "gender": "male"
+            },
+            "debra fordham": {
+                "name_of_work": "scrubs",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2008": {
+        "writing": {
+            "robin veith": {
+                "name_of_work": "mad men",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tina fey": {
+                "name_of_work": "30 rock",
+                "winner": "true",
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "arlene sanford": {
+                "name_of_work": "boston legal",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2009": {
+        "writing": {
+            "robin veith": {
+                "name_of_work": "mad men",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kater gordon": {
+                "name_of_work": "mad men",
+                "winner": "true",
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "millicent shelton": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            },
+            "beth mccarthy-miller": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "katreese barnes": {
+                "name_of_work": "the 2008 espys",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2010": {
+        "writing": {
+            "michelle king": {
+                "name_of_work": "the good wife",
+                "winner": "false",
+                "gender": "male"
+            },
+            "robin veith": {
+                "name_of_work": "mad men",
+                "winner": "false",
+                "gender": "male"
+            },
+            "erin levy": {
+                "name_of_work": "mad men",
+                "winner": "true",
+                "gender": "male"
+            },
+            "mindy kaling": {
+                "name_of_work": "the office",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tina fey": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lolita ritmanis": {
+                "name_of_work": "batman: the brave and the bold",
+                "winner": "false",
+                "gender": "male"
+            },
+            "sheila e.": {
+                "name_of_work": "in performance at the white house: fiesta latina",
+                "winner": "false",
+                "gender": "male"
+            },
+            "wendy melvoin": {
+                "name_of_work": "nurse jackie",
+                "winner": "true",
+                "gender": "male"
+            },
+            "lisa coleman": {
+                "name_of_work": "nurse jackie",
+                "winner": "true",
+                "gender": "male"
+            }
+        }
+    },
+    "2011": {
+        "writing": {
+            "veena sud": {
+                "name_of_work": "the killing",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "beth mccarthy-miller": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            },
+            "pamela fryman": {
+                "name_of_work": "how i met your mother",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "katreese barnes": {
+                "name_of_work": "saturday night live",
+                "winner": "true",
+                "gender": "male"
+            }
+        }
+    },
+    "2012": {
+        "writing": {
+            "semi chellas": {
+                "name_of_work": "mad men",
+                "winner": "false",
+                "gender": "male"
+            },
+            "carrie brownstein": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "karey dornetto": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jessica conrad": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "shelly gossman": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "christine nangle": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "paula pell": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "marika sawyer": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "meredith scardino": {
+                "name_of_work": "the colbert report",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jo miller": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "true",
+                "gender": "male"
+            },
+            "carol leifer": {
+                "name_of_work": "84th annual academy awards",
+                "winner": "false",
+                "gender": "male"
+            },
+            "colleen werthmann": {
+                "name_of_work": "84th annual academy awards",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "lisa coleman": {
+                "name_of_work": "touch",
+                "winner": "false",
+                "gender": "male"
+            },
+            "wendy melvoin": {
+                "name_of_work": "touch",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2013": {
+        "writing": {
+            "pamela adlon": {
+                "name_of_work": "louie",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tina fey": {
+                "name_of_work": "the 70th annual golden globe awards",
+                "winner": "false",
+                "gender": "male"
+            },
+            "meredith scardino": {
+                "name_of_work": "the colbert report",
+                "winner": "true",
+                "gender": "male"
+            },
+            "carrie brownstein": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "marika sawyer": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jo miller": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "false",
+                "gender": "male"
+            },
+            "lauren sarver": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "false",
+                "gender": "male"
+            },
+            "bess kalb": {
+                "name_of_work": "jimmy kimmel live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "joelle boucai": {
+                "name_of_work": "jimmy kimmel live",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "beth mccarthy-miller": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "tina fey": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tracey wigfield": {
+                "name_of_work": "30 rock",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kate york": {
+                "name_of_work": "nashville",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2014": {
+        "writing": {
+            "moira walley-beckett": {
+                "name_of_work": "breaking bad",
+                "winner": "true",
+                "gender": "male"
+            },
+            "liz friedman": {
+                "name_of_work": "orange is the new black",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jenji kohan": {
+                "name_of_work": "orange is the new black",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jessi klein": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "christine nangle": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "carrie brownstein": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "karey dornetto": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "meredith scardino": {
+                "name_of_work": "the colbert report",
+                "winner": "true",
+                "gender": "male"
+            },
+            "jo miller": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "false",
+                "gender": "male"
+            },
+            "lauren sarver": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jess dweck": {
+                "name_of_work": "the tonight show starring jimmy fallon",
+                "winner": "false",
+                "gender": "male"
+            },
+            "albertina rizzo": {
+                "name_of_work": "the tonight show starring jimmy fallon",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tina fey": {
+                "name_of_work": "the 71st annual golden globe awards",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "beth mccarthy-miller": {
+                "name_of_work": "the sound of music live!",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "alisa hauser": {
+                "name_of_work": "a christmas carol - the concert",
+                "winner": "false",
+                "gender": "male"
+            },
+            "aidy bryant": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kate mckinnon": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2015": {
+        "writing": {
+            "tina fey": {
+                "name_of_work": "the saturday night live 40th anniversary special",
+                "winner": "false",
+                "gender": "male"
+            },
+            "meredith scardino": {
+                "name_of_work": "the 72nd annual golden globe awards",
+                "winner": "false",
+                "gender": "male"
+            },
+            "paula pell": {
+                "name_of_work": "the saturday night live 40th anniversary special",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "false",
+                "gender": "male"
+            },
+            "juli weiner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jo miller": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "true",
+                "gender": "male"
+            },
+            "lauren sarver": {
+                "name_of_work": "the daily show with jon stewart",
+                "winner": "true",
+                "gender": "male"
+            },
+            "jessi klein": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kim caramele": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "christine nangle": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tami sagher": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "semi chellas": {
+                "name_of_work": "mad men",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jill soloway": {
+                "name_of_work": "transparent",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "kristen anderson-lopez": {
+                "name_of_work": "the comedians",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "jill soloway": {
+                "name_of_work": "transparent",
+                "winner": "true",
+                "gender": "male"
+            }
+        }
+    },
+    "2016": {
+        "directing": {
+            "jill soloway": {
+                "name_of_work": "transparent",
+                "winner": "true",
+                "gender": "male"
+            },
+            "beth mccarthy-miller": {
+                "name_of_work": "adele live in new york city",
+                "winner": "false",
+                "gender": "male"
+            },
+            "beyonc\u00c3\u00a9 knowles carter": {
+                "name_of_work": "lemonade",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "riki lindhome": {
+                "name_of_work": "garfunkel and oates: trying to be special",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kate micucci": {
+                "name_of_work": "garfunkel and oates: trying to be special",
+                "winner": "false",
+                "gender": "male"
+            },
+            "diane warren": {
+                "name_of_work": "the hunting ground",
+                "winner": "true",
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "sharon horgan": {
+                "name_of_work": "catastrophe",
+                "winner": "false",
+                "gender": "male"
+            },
+            "michelle king": {
+                "name_of_work": "the good wife",
+                "winner": "false",
+                "gender": "male"
+            },
+            "marti noxon": {
+                "name_of_work": "unreal",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jo miller": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": "false",
+                "gender": "male"
+            },
+            "melinda taub": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jessi klein": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "christine nangle": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kim caramele": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tami sagher": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "claudia o'doherty": {
+                "name_of_work": "inside amy schumer",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "juli weiner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "carrie brownstein": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "karey dornetto": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "megan callahan": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "fran gillespie": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "sudi green": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "katie rich": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "tig notaro": {
+                "name_of_work": "tig notaro:  boyish girl interrupted",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2017": {
+        "directing": {
+            "reed morano": {
+                "name_of_work": "the handmaid's tale",
+                "winner": "true",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "tina fey": {
+                "name_of_work": "unbreakable kimmy schmidt",
+                "winner": "false",
+                "gender": "male"
+            },
+            "susan jacobs": {
+                "name_of_work": "big little lies",
+                "winner": "true",
+                "gender": "male"
+            },
+            "kerri drootin": {
+                "name_of_work": "master of none",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "jo miller": {
+                "name_of_work": "full frontal with samantha bee presents not the white house correspondents' dinner",
+                "winner": "true",
+                "gender": "male"
+            },
+            "melinda taub": {
+                "name_of_work": "full frontal with samantha bee presents not the white house correspondents' dinner",
+                "winner": "true",
+                "gender": "male"
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "juli weiner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "dina gusovsky": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jenny hagel": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "amber ruffin": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kate sidley": {
+                "name_of_work": "stephen colbert's live election night democracy's series finale: who's going to clean up this sh*t?",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jen spyra": {
+                "name_of_work": "stephen colbert's live election night democracy's series finale: who's going to clean up this sh*t?",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kristen bartlett": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "joanna bradley": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "megan callahan": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "fran gillespie": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "sudi green": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "katie rich": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "lauren greenberg": {
+                "name_of_work": "70th annual tony awards",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2018": {
+        "directing": {
+            "carrie brownstein": {
+                "name_of_work": "portlandia",
+                "winner": "false",
+                "gender": "male"
+            },
+            "lynn novick": {
+                "name_of_work": "the vietnam war",
+                "winner": "false",
+                "gender": "male"
+            }
+        },
+        "music": {
+            "cindy o'connor": {
+                "name_of_work": "once upon a time",
+                "winner": "false",
+                "gender": "female"
+            },
+            "marilyn bergman": {
+                "name_of_work": "if you're not in the obit, eat breakfast",
+                "winner": "false",
+                "gender": "male"
+            },
+            "bridget ellen kearney": {
+                "name_of_work": "somebody feed phil",
+                "winner": "false",
+                "gender": "male"
+            },
+            "rachael price": {
+                "name_of_work": "somebody feed phil",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jen malone": {
+                "name_of_work": "atlanta",
+                "winner": "false",
+                "gender": "male"
+            },
+            "robin urdang": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": "true",
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "stefani robinson": {
+                "name_of_work": "atlanta",
+                "winner": "false",
+                "gender": "male"
+            },
+            "liz sarnoff": {
+                "name_of_work": "barry",
+                "winner": "false",
+                "gender": "male"
+            },
+            "melinda taub": {
+                "name_of_work": "full frontal with samantha bee presents: the great american* puerto rico (*it's complicated)",
+                "winner": "false",
+                "gender": "male"
+            },
+            "nicole silverberg": {
+                "name_of_work": "full frontal with samantha bee presents: the great american* puerto rico (*it's complicated)",
+                "winner": "false",
+                "gender": "male"
+            },
+            "raquel d'apice": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "juli weiner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "dina gusovsky": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jenny hagel": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "amber ruffin": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kate sidley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jen spyra": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": "false",
+                "gender": "male"
+            },
+            "megan callahan": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "katie rich": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "fran gillespie": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "sudi green": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "razan ghalayini": {
+                "name_of_work": "full frontal with samantha bee presents: the great american* puerto rico (*it's complicated)",
+                "winner": "false",
+                "gender": "male"
+            },
+            "allana harkin": {
+                "name_of_work": "full frontal with samantha bee presents: the great american* puerto rico (*it's complicated)",
+                "winner": "false",
+                "gender": "male"
+            },
+            "halcyon person": {
+                "name_of_work": "full frontal with samantha bee presents: the great american* puerto rico (*it's complicated)",
+                "winner": "false",
+                "gender": "male"
+            },
+            "michelle wolf": {
+                "name_of_work": "michelle wolf: nice lady",
+                "winner": "false",
+                "gender": "male"
+            }
+        }
+    },
+    "2019": {
+        "directing": {
+            "daina reid": {
+                "name_of_work": "the handmaid's tale",
+                "winner": "false",
+                "gender": "male"
+            },
+            "lisa br\u00c3\u00bchlmann": {
+                "name_of_work": "killing eve",
+                "winner": "false",
+                "gender": "male"
+            },
+            "beyonc\u00c3\u00a9 knowles-carter": {
+                "name_of_work": "homecoming: a film by beyonc\u00c3\u00a9",
+                "winner": "false",
+                "gender": "male"
+            },
+            "julie cohen": {
+                "name_of_work": "rbg",
+                "winner": "false",
+                "gender": "female"
+            },
+            "betsy west": {
+                "name_of_work": "rbg",
+                "winner": "false",
+                "gender": "female"
+            }
+        },
+        "music": {
+            "beyonc\u00c3\u00a9 knowles-carter": {
+                "name_of_work": "homecoming: a film by beyonc\u00c3\u00a9",
+                "winner": "false",
+                "gender": "male"
+            },
+            "leslie jones": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "brienne rose": {
+                "name_of_work": "russian doll",
+                "winner": "false",
+                "gender": "male"
+            },
+            "shaina taub": {
+                "name_of_work": "72nd annual tony awards",
+                "winner": "false",
+                "gender": "male"
+            },
+            "robin urdang": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": "true",
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "stacy osei-kuffour": {
+                "name_of_work": "pen15",
+                "winner": "false",
+                "gender": "male"
+            },
+            "natasha lyonne": {
+                "name_of_work": "russian doll",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kira snyder": {
+                "name_of_work": "the handmaid's tale",
+                "winner": "false",
+                "gender": "male"
+            },
+            "melinda taub": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kristen bartlett": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": "false",
+                "gender": "male"
+            },
+            "nicole silverberg": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": "false",
+                "gender": "male"
+            },
+            "karen chee": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "dina gusovsky": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "amber ruffin": {
+                "name_of_work": "late night with seth meyers",
+                "winner": "false",
+                "gender": "male"
+            },
+            "emmy blotnick": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": "false",
+                "gender": "male"
+            },
+            "kate sidley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jen spyra": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": "false",
+                "gender": "male"
+            },
+            "lauren greenberg": {
+                "name_of_work": "carpool karaoke: when corden met mccartney live from liverpool",
+                "winner": "false",
+                "gender": "male"
+            },
+            "beyonc\u00c3\u00a9 knowles-carter": {
+                "name_of_work": "homecoming: a film by beyonc\u00c3\u00a9",
+                "winner": "false",
+                "gender": "male"
+            },
+            "wanda sykes": {
+                "name_of_work": "wanda sykes: not normal",
+                "winner": "false",
+                "gender": "male"
+            },
+            "alison gates": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "marika sawyer": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "megan callahan": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "katie rich": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "fran gillespie": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "sudi green": {
+                "name_of_work": "saturday night live",
+                "winner": "false",
+                "gender": "male"
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "juli weiner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "raquel d'apice": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            },
+            "joanna rothkopf": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": "true",
+                "gender": "male"
+            }
+        }
+    }
+}

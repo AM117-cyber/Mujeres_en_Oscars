@@ -48,7 +48,7 @@
         .image-container {
           display: flex;
           flex-wrap: wrap;
-          justify-content: space-around;
+          flex-direction: column;
         }
         .image-block {
           margin: 10px;
@@ -92,8 +92,8 @@
               <p style="font-weight: normal; margin-left: 5px; color: gray;">
                 Tras un análisis del comportamiento de las nominaciones y premiaciones en las categorías relacionadas con la música, el guión, producción y dirección durante los últimos 50 años y dentro de ellas las del sexo femenino, se obtuvo como resultado que en total han sido nominadas a los Óscar 685 mujeres, de ellas 124 han resultado ganadoras, lo que representa el 18%.
                 En todos estos años, entre más de 400 directores, sólo siete mujeres han sido nominadas a "Mejor Dirección" y de ellas sólo tres han ganado.
-                Entre las nominaciones a esta categoría cuentan: Lina Wertmüller por ‘Seven Beauties’ en 1976, Jane Campion por ‘The Piano’ en 1993 y ‘The Power of the Dog’ en 2021, Sofia Coppola por ‘Lost in Translation’ en 2003, Kathryn Bigelow por ‘The Hurt Locker’ en 2009, Greta Gerwig por ‘Lady Bird’ en 2017, Emerald Fennell por ‘Promising Young Woman’ en 2020 y Chloé Zhao por ‘Nomadland’ en 2020. 
-                Las tres mujeres galardonadas son: Kathryn Bigelow por ‘The Hurt Locker’ en 2009, Chloé Zhao por ‘Nomadland’ en 2020 y Jane Campion por ‘The Power of the Dog’ en 2021.
+                Entre las nominaciones a esta categoría cuentan: Lina Wertmüller por ‘Seven Beauties’ en 1977, Jane Campion por ‘The Piano’ en 1994 y ‘The Power of the Dog’ en 2022, Sofia Coppola por ‘Lost in Translation’ en 2004, Kathryn Bigelow por ‘The Hurt Locker’ en 2010, Greta Gerwig por ‘Lady Bird’ en 2018, Emerald Fennell por ‘Promising Young Woman’ en 2021 y Chloé Zhao por ‘Nomadland’ en 2021. 
+                Las tres mujeres galardonadas son: Kathryn Bigelow, Chloé Zhao y Jane Campion.
               </p>
           </div>
       </section>
@@ -137,6 +137,7 @@
   </div>
 
   <div class="image-container">
+    <div style="display: flex; flex-direction: row; justify-content: space-between; margin-left: 150px; margin-right: 150px;">
     <div style="text-align: center;">
       <img src='Lina.png' alt='Lina Wertmüller' style="width: 250px; height: 300px; margin-top: 20px">
       <p>Lina Wertmüller</p>
@@ -146,18 +147,20 @@
       <img src='Greta.png' alt='Greta Gerwig' style="width: 260px; height: 300px; margin-top: 20px">
       <p>Greta Gerwig</p>
     </div>
-    
+    </div>
+    <div style="display: flex; flex-direction: row; justify-content: space-between; margin-left: 150px; margin-right: 150px;">
     <div style="text-align: center;">
       <img src='Sofia.png' alt='Sofia Coppola' style="width: 320px; height: 300px;">
       <p>Sofia Coppola</p>
     </div>
-
+    
     <div style="text-align: center;">
       <img src='Jane.png' alt='Jane Campion' style="width: 320px; height: 300px; margin-left: 20px;">
       <p>Jane Campion</p>
     </div>
+  </div>
     
-    
+  <div style="display: flex; flex-direction: row; justify-content: space-between; margin-left: 150px; margin-right: 150px;">
     <div style="text-align: center;">
       <img src='Kathryn.png' alt='Kathryn Bigelow' style="width: 310px; height: 260px;">
       <p>Kathryn Bigelow</p>
@@ -167,6 +170,8 @@
       <img src='Emerald.png' alt='Emerald Fennell' style="width: 320px; height: 260px;">
       <p>Emerald Fennell</p>
     </div>
+</div>
+
 
     <div style="text-align: center;">
       <img src='Chloé.png' alt='Chloé Zhao' style="width: 320px; height: 300px;">
@@ -184,28 +189,82 @@
 
   <div style="display: flex; flex-direction: row; margin-top: 20px;">
   <select id="categorySelect" style="display: flex; justify-content: space-between; width: 80px; margin-left: 100px;">
-    <option value="directing" style="font-size: smaller;">Directing</option>
-    <option value="program" style="font-size: smaller;">Program</option>
-    <option value="writing" style="font-size: smaller;">Writing</option>
-    <option value="music" style="font-size: smaller;">Music</option>
+    <option value="directing" style="font-size: smaller;">Dirección</option>
+    <option value="program" style="font-size: smaller;">Producción</option>
+    <option value="writing" style="font-size: smaller;">Guion</option>
+    <option value="music" style="font-size: smaller;">Música</option>
 </select>
 <select id="genderSelect" style="display: flex; justify-content: space-between; width: 80px; margin-left: 10px;">
   <option value="female" style="font-size: smaller;">Mujeres</option>
   <option value="male" style="font-size: smaller;">Hombres</option>
 </select>
 </div>
-</div>
 <div>
-  <canvas id="myChart" style="max-height: 250px; max-width: 450px;"></canvas>
+  <canvas id="myChart" style="max-height: 400px; max-width: 630px;"></canvas>
 <section style="padding-top: 20px;">
   <div style="position: relative; max-width: 400px; margin-left: 30px; margin-top: -10px;">
-    <canvas id="myChart" style="max-height: 200px; max-width: 450px;"></canvas>
+    <canvas id="myChart"></canvas>
+    <p style="position: absolute; top: 0; left: 0; right: 0; font-weight: normal; font-size:small; color: gray; text-align: center;">
+      Gráfico con los top 10 nominados en los premios seleccionados teniendo en cuenta el género y la categoría
+    </p>
+  </div>
+</section>
+</div>
+<section style="padding-top:20px;">
+  <div style="margin: auto; max-width: 1000px;">
+      <p style="margin-top: -50px; margin-bottom: 0px; font-weight: normal; color: gray;">
+        ¿Cómo se comportan esos números para los premios Emmy y Tony? La categoría que cuenta con menor cantidad de galardones obtenidos por una fémina es el guion en los premios Tony, puesto que ninguna mujer ha ganado en más de una ocasión. Los Emmys tienen una mayor cantidad de mujeres galardonadas, pero se también cuentan con un número de categorías mucho mayor, por lo que estos números podrían no ser tan representativos. Estos datos solamente toman en cuenta los nominados y ganadores del 2000 al 2023.
+      </p>
+    </div>
+  </section>
+<div style="display: flex; flex-direction: row; margin-top: 20px;">
+  <select id="awardSelect" style="display: flex; justify-content: space-between; width: 80px; margin-left: 100px;">
+    <option value="tony">Tony</option>
+    <option value="emmy">Emmy</option>
+  </select>
+  <select id="categorySelect2" style="display: flex; justify-content: space-between; width: 80px; margin-left: 100px;">
+    <option value="directing" style="font-size: smaller;">Dirección</option>
+    <option value="writing" style="font-size: smaller;">Guion</option>
+    <option value="music" style="font-size: smaller;">Música</option>
+</select>
+<select id="genderSelect2" style="display: flex; justify-content: space-between; width: 80px; margin-left: 10px;">
+  <option value="female" style="font-size: smaller;">Mujeres</option>
+  <option value="male" style="font-size: smaller;">Hombres</option>
+</select>
+</div>
+<div>
+  <canvas id="barChart2" style="max-height: 400px; max-width: 630px;"></canvas>
+<section style="padding-top: 20px;">
+  <div style="position: relative; max-width: 400px; margin-left: 30px; margin-top: -10px;">
+    <canvas id="barChart2"></canvas>
     <p style="position: absolute; top: 0; left: 0; right: 0; font-weight: normal; font-size:small; color: gray; text-align: center;">
       Gráfico con los top 10 nominados en la categoría seleccionada teniendo en cuenta el género
     </p>
   </div>
 </section>
 </div>
+
+<section style="padding-top:20px;">
+  <div style="margin: auto; max-width: 1000px;">
+      <p style="margin-top: -50px; margin-bottom: 0px; font-weight: normal; color: gray;">
+        En este gráfico analizaremos la representación femenina en los premios Tony, Emmy y Óscar del 2000 al 2023 en las categorías relacionadas con dirección, guion y música. Se puede observar el porciento de mujeres ganadoras con respecto a la cantidad de nominados en esas categorías en el transcurso de los años. Es necesario señalar que en el 2021 no se celebraron los premios Tony debido a la pandemia de la covid-19.
+      </p>
+    </div>
+  </section>
+
+<div style="display: flex; flex-direction: row; margin-top: 50px;">
+  <select id="allAwardsAmount" style="width: 180px; margin-left: 30px;">
+    <option value='true' style="font-size: smaller;">Mostrar por porcentajes</option>
+    <option value='false' style="font-size: smaller;">Mostrar por cantidades</option>
+  </select>
+  <select id="allAwardsWinner" style="display: flex; justify-content: space-between; width: 130px; margin-left: 10px;">
+    <option value='true' style="font-size: smaller;">Ganadoras</option>
+    <option value='false' style="font-size: smaller;">Todas</option>
+  </select>
+  </div>
+<canvas id="lineChart"></canvas>
+
+
 
   <h2 style="color: blue-gray; margin-top: 32px; padding-left:32px; margin-bottom: 24px;">
     El número de mujeres ganadoras va en aumento
@@ -285,34 +344,34 @@
           });
       
       function getTopStaff(jsonData, gender) {
-          let counts = {};
-      
-          for (let year in jsonData) {
-              for (let category in jsonData[year]) {
-                  for (let staff_member in jsonData[year][category]) {
-                      let staffData = jsonData[year][category][staff_member];
-                      if (staffData.gender === gender) {
-                          if (!counts[category]) {
-                              counts[category] = {};
-                          }
-                          if (!counts[category][staff_member]) {
-                              counts[category][staff_member] = 0;
-                          }
-                          counts[category][staff_member]++;
-                      }
-                  }
-              }
-          }
-      
-          let topStaff = {};
-          for (let category in counts) {
-              let staffCounts = Object.entries(counts[category]);
-              staffCounts.sort((a, b) => b[1] - a[1]);
-              topStaff[category] = staffCounts.slice(0, 10);
-          }
-      
-          return topStaff;
-      }
+        let counts = {};
+    
+        for (let year in jsonData) {
+            for (let category in jsonData[year]) {
+                for (let staff_member in jsonData[year][category]) {
+                    let staffData = jsonData[year][category][staff_member];
+                    if (staffData.gender === gender) {
+                        if (!counts[category]) {
+                            counts[category] = {};
+                        }
+                        if (!counts[category][staff_member]) {
+                            counts[category][staff_member] = { count: 0, years: [] };
+                        }
+                        counts[category][staff_member].count++;
+                        counts[category][staff_member].years.push(year);
+                    }
+                }
+            }
+        }
+        let topStaff = {};
+        for (let category in counts) {
+            let staffCounts = Object.entries(counts[category]).map(([name, data]) => ({ name, count: data.count, years: data.years }));
+            staffCounts.sort((a, b) => b.count - a.count);
+            topStaff[category] = staffCounts.slice(0, 10);
+        }
+    
+        return topStaff;
+    }
       function createChart(topStaff) {
           // Get the selected category
           let selectedCategory = document.getElementById('categorySelect').value;
@@ -330,10 +389,13 @@
       
           let labels = [];
           let data = [];
-          for (let i = 0; i < topStaff[selectedCategory].length; i++) {
-              labels.push(topStaff[selectedCategory][i][0]); // staff member's name
-              data.push(topStaff[selectedCategory][i][1]); // staff member's count
-          }
+        let tooltipItems = [];
+        for (let i = 0; i < topStaff[selectedCategory].length; i++) {
+            labels.push(topStaff[selectedCategory][i].name); // staff member's name
+            data.push(topStaff[selectedCategory][i].count); // staff member's count
+            tooltipItems.push(topStaff[selectedCategory][i].years.join(', ')); // staff member's years
+            console.log(tooltipItems)
+        }
       
           // Set the color based on the selected gender
           let color = selectedGender === 'male' ? 'rgb(0, 0, 255)' : 'rgba(244, 0, 122, 0.6)'; // Blue for male, pink for female
@@ -352,6 +414,18 @@
                   }]
               },
               options: {
+                 tooltips: {
+                      enabled: true,
+                      mode: 'single',
+                      callbacks: {
+                           label: function(tooltipItems, data) {
+                           let label = data.labels[tooltipItems.index];
+                           let value = data.datasets[tooltipItems.datasetIndex].data[tooltipItems.index];
+                           let years = 5;
+                      return `${label}: ${value} (5)`;
+                       }
+                    }
+                  },
                   scales: {
                       y: {
                           beginAtZero: true,
@@ -379,7 +453,268 @@
       }
       
       </script>
-        
+    
+
+    <script>
+      let topStaff2;
+      let award_jsonData;
+      // Fetch data and create chart on page load
+      fetch('awards_all.json')
+          .then(response => response.json())
+          .then(data => {
+              award_jsonData = data;
+              updateChart2();
+          });
+      
+      function getTopStaff2(awardData, gender) {
+          let counts = {};
+      
+          for (let year in awardData) {
+              for (let category in awardData[year]) {
+                  for (let staff_member in awardData[year][category]) {
+                      let staffData = awardData[year][category][staff_member];
+                      if (staffData.gender === gender) {
+                          if (!counts[category]) {
+                              counts[category] = {};
+                          }
+                          if (!counts[category][staff_member]) {
+                              counts[category][staff_member] = { count: 0, years: [] };
+                          }
+                          counts[category][staff_member].count++;
+                          counts[category][staff_member].years.push(year);
+                      }
+                  }
+              }
+          }
+      
+          let topStaff2 = {};
+          for (let category in counts) {
+              let staffCounts = Object.entries(counts[category]).map(([name, data]) => ({ name, count: data.count, years: data.years }));
+              staffCounts.sort((a, b) => b.count - a.count);
+              topStaff2[category] = staffCounts.slice(0, 10);
+          }
+      
+          return topStaff2;
+      }
+      
+      function createChart2(topStaff2) {
+          // Get the selected category, gender, and award
+          let selectedCategory = document.getElementById('categorySelect2').value;
+          let selectedGender = document.getElementById('genderSelect2').value;
+          let selectedAward = document.getElementById('awardSelect').value;
+      
+          // Get the context of the canvas element we want to select
+          var ctx = document.getElementById('barChart2').getContext('2d');
+      
+          // Clear any existing chart
+          if (window.barChart2 instanceof Chart) {
+              window.barChart2.destroy();
+          }
+      
+          let labels = [];
+          let data = [];
+          let tooltipItems = [];
+          for (let i = 0; i < topStaff2[selectedCategory].length; i++) {
+              labels.push(topStaff2[selectedCategory][i].name); // staff member's name
+              data.push(topStaff2[selectedCategory][i].count); // staff member's count
+              tooltipItems.push(topStaff2[selectedCategory][i].years.join(', ')); // staff member's years
+          }
+          let color = selectedGender === 'male' ? 'rgb(0, 0, 255)' : 'rgba(244, 0, 122, 0.6)'; // Blue for male, pink for female
+          let border = selectedGender === 'male' ? 'rgba(7, 3, 216,3)' : 'rgba(244, 0, 122, 1.3)'; // Blue for male, pink for female
+          // Create the chart
+          window.barChart2 = new Chart(ctx, {
+              type: 'bar',
+              data: {
+                  labels: labels,
+                  datasets: [{
+                      label: selectedCategory,
+                      data: data,
+                      backgroundColor: color,
+                      borderColor: border,
+                      borderWidth: 1.5
+                  }]
+              },
+              options: {
+                 tooltips: {
+                      enabled: true,
+                      mode: 'single',
+                      callbacks: {
+                           label: function(tooltipItems, data) {
+                           let label = data.labels[tooltipItems.index];
+                           let value = data.datasets[tooltipItems.datasetIndex].data[tooltipItems.index];
+                           let years = 5;
+                      return `${label}: ${value} (5)`;
+                       }
+                    }
+                  },
+                  scales: {
+                      y: {
+                          beginAtZero: true,
+                          grid: {
+                              display: false // Hide the grid lines
+                          }
+                      },
+                      x: {
+                          grid: {
+                              display: false // Hide the grid lines
+                          }
+                      }
+                  },
+                  responsive: true,
+              }
+          });
+      }
+      
+      document.getElementById('categorySelect2').addEventListener('change', updateChart2);
+      document.getElementById('genderSelect2').addEventListener('change', updateChart2);
+      document.getElementById('awardSelect').addEventListener('change', updateChart2);
+      
+      function updateChart2() {
+          let selectedGender = document.getElementById('genderSelect2').value;
+          let selectedAward = document.getElementById('awardSelect').value;
+          topStaff2 = getTopStaff2(award_jsonData[selectedAward], selectedGender);
+          createChart2(topStaff2);
+      }
+      </script>
+      
+
+
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  let years = [];
+        let oscarCounts = [];
+        let oscarWinners = [];
+        let oscarWinnerPercentages = [];
+        let oscarPercentages = [];
+        let tonyCounts = [];
+        let tonyWinners = [];
+        let tonyWinnerPercentages = [];
+        let tonyPercentages = [];
+        let emmyCounts = [];
+        let emmyWinners = [];
+        let emmyWinnerPercentages = [];
+        let emmyPercentages = [];
+        let [count, percentages, winnerCount, winnerPercentages] = [,];
+  fetch('awards_all.json')
+    .then(response => response.json())
+    .then(data => {
+
+        for (let year = 2000; year <= 2023; year++) {
+            years.push(year);
+            [count, percentages, winnerCount, winnerPercentages] = countWomen(data.oscar[year]);
+            oscarCounts.push(count);
+            oscarPercentages.push(percentages);
+            oscarWinners.push(winnerCount);
+            oscarWinnerPercentages.push(winnerPercentages);
+            [count, percentages, winnerCount, winnerPercentages] = countWomen(data.tony[year]);
+            tonyCounts.push(count);
+            tonyPercentages.push(percentages);
+            tonyWinners.push(winnerCount);
+            tonyWinnerPercentages.push(winnerPercentages);
+            [count, percentages, winnerCount, winnerPercentages] = countWomen(data.emmy[year]);
+            emmyCounts.push(count);
+            emmyPercentages.push(percentages);
+            emmyWinners.push(winnerCount);
+            emmyWinnerPercentages.push(winnerPercentages);
+        }
+
+        let chart = new Chart(document.getElementById('lineChart'), {
+            type: 'line',
+            data: {
+                labels: years,
+                datasets: [{
+                    label: 'Oscar',
+                    data:oscarPercentages,
+                    borderColor: 'red',
+                    fill: false
+                }, {
+                    label: 'Tony',
+                    data: tonyPercentages,
+                    borderColor: 'yellow',
+                    fill: false
+                }, {
+                    label: 'Emmy',
+                    data: emmyPercentages,
+                    borderColor: 'green',
+                    fill: false
+                }]
+            },
+            options: {
+                responsive: true,
+                title: {
+                    display: true,
+                    text: 'Number of Women in Oscars, Tonys, and Emmys per Year'
+                },
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+    });
+    document.getElementById('allAwardsAmount').addEventListener('change', updateLineChart);
+    document.getElementById('allAwardsWinner').addEventListener('change', updateLineChart);
+    
+    function updateLineChart(){
+    let percentage = document.getElementById('allAwardsAmount').value;
+    let winners = document.getElementById('allAwardsWinner').value;
+
+    if (percentage === 'true') {
+        if (winners === 'true') {
+            chart.data.datasets[0].data = oscarWinnerPercentages;
+            chart.data.datasets[1].data = tonyWinnerPercentages;
+            chart.data.datasets[2].data = emmyWinnerPercentages;
+            console.log("This are the winners pecrentages: " +oscarWinnerPercentages)
+        }
+        else{
+            chart.data.datasets[0].data = oscarPercentages;
+            chart.data.datasets[1].data = tonyPercentages;
+            chart.data.datasets[2].data = emmyPercentages;
+            console.log("This are the nominees pecrentages: " +oscarPercentages)
+        }
+    } else if (winners === 'true') {
+        chart.data.datasets[0].data = oscarWinners;
+        chart.data.datasets[1].data = tonyWinners;
+        chart.data.datasets[2].data = emmyWinners;
+    }
+    else {
+        chart.data.datasets[0].data = oscarCounts;
+        chart.data.datasets[1].data = tonyCounts;
+        chart.data.datasets[2].data = emmyCounts;
+    }
+    console.log(chart.data.datasets[0].data)
+    chart.update();
+}
+});
+
+function countWomen(data) {
+    let women_count = 0;
+    let total_count = 0;
+    let winner_count = 0;
+    for (let category of ['writing', 'directing', 'music']) {
+        if (data && data[category]) {
+            for (let staff of Object.values(data[category])) {
+                if (staff.gender === 'female') {
+                    women_count++;
+                    if (staff.winner) {
+                      winner_count++;
+                    }
+                }
+                total_count++;
+            }
+        }
+    }
+    if (total_count === 0) {
+      return [0,0,0,0];
+    }
+    return [women_count, (women_count / total_count)*100, winner_count, (winner_count / total_count)*100];
+}
+</script>
+
+
+
       <script>
     
         // Your component code

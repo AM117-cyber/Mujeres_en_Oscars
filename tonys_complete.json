@@ -1,0 +1,3327 @@
+{
+    "2023": {
+        "writing": {
+            "David Lindsay-Abaire": {
+                "name_of_work": "Kimberly Akimbo",
+                "winner": true,
+                "gender": "male"
+            },
+            "David West Read": {
+                "name_of_work": "& Juliet",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Thompson": {
+                "name_of_work": "New York, New York",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sharon Washington": {
+                "name_of_work": "New York, New York",
+                "winner": false,
+                "gender": "female"
+            },
+            "Robert Horn": {
+                "name_of_work": "Shucked",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matthew L\u00c3\u00b3pez": {
+                "name_of_work": "Some Like It Hot",
+                "winner": false,
+                "gender": "male"
+            },
+            "Amber Ruffin": {
+                "name_of_work": "Some Like It Hot",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "music": {
+            "David Lindsay-Abaire": {
+                "name_of_work": "Kimberly Akimbo",
+                "winner": true,
+                "gender": "male"
+            },
+            "Jeanine Tesori": {
+                "name_of_work": "Kimberly Akimbo",
+                "winner": true,
+                "gender": "female"
+            },
+            "Cameron Crowe": {
+                "name_of_work": "Almost Famous",
+                "winner": false,
+                "gender": "female"
+            },
+            "Tom Kitt": {
+                "name_of_work": "Almost Famous",
+                "winner": false,
+                "gender": "female"
+            },
+            "Helen Park": {
+                "name_of_work": "KPOP",
+                "winner": false,
+                "gender": "female"
+            },
+            "Max Vernon": {
+                "name_of_work": "KPOP",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brandy Clark": {
+                "name_of_work": "Shucked",
+                "winner": false,
+                "gender": "female"
+            },
+            "Shane McAnally": {
+                "name_of_work": "Shucked",
+                "winner": false,
+                "gender": "male"
+            },
+            "Marc Shaiman": {
+                "name_of_work": "Some Like It Hot",
+                "winner": false,
+                "gender": "female"
+            },
+            "Scott Wittman": {
+                "name_of_work": "Some Like It Hot",
+                "winner": false,
+                "gender": "female"
+            },
+            "Carolyn Downing": {
+                "name_of_work": "Life of Pi",
+                "winner": true,
+                "gender": "female"
+            },
+            "Joshua D. Reid": {
+                "name_of_work": "A Christmas Carol",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ben Ringham": {
+                "name_of_work": "Prima Facie",
+                "winner": false,
+                "gender": "male"
+            },
+            "Max Ringham": {
+                "name_of_work": "Prima Facie",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jonathan Deans": {
+                "name_of_work": "Ain't No Mo'",
+                "winner": false,
+                "gender": "male"
+            },
+            "Taylor J. Williams": {
+                "name_of_work": "Ain't No Mo'",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nevin Steinberg": {
+                "name_of_work": "Sweeney Todd",
+                "winner": true,
+                "gender": "male"
+            },
+            "Gareth Owen": {
+                "name_of_work": "& Juliet",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "Into the Woods",
+                "winner": false,
+                "gender": "male"
+            },
+            "Alex Neumann": {
+                "name_of_work": "Into the Woods",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kai Harada": {
+                "name_of_work": "New York, New York",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Shivers": {
+                "name_of_work": "Shucked",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Patrick Marber": {
+                "name_of_work": "Leopoldstadt",
+                "winner": true,
+                "gender": "female"
+            },
+            "Jamie Lloyd": {
+                "name_of_work": "A Doll's House",
+                "winner": false,
+                "gender": "male"
+            },
+            "Stevie Walker-Webb": {
+                "name_of_work": "Ain't No Mo'",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jo Bonney": {
+                "name_of_work": "Cost of Living",
+                "winner": false,
+                "gender": "female"
+            },
+            "Saheem Ali": {
+                "name_of_work": "Fat Ham",
+                "winner": false,
+                "gender": "male"
+            },
+            "Max Webster": {
+                "name_of_work": "Life of Pi",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Arden": {
+                "name_of_work": "Parade",
+                "winner": true,
+                "gender": "male"
+            },
+            "Lear deBessonet": {
+                "name_of_work": "Into the Woods",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jessica Stone": {
+                "name_of_work": "Kimberly Akimbo",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jack O'Brien": {
+                "name_of_work": "Shucked",
+                "winner": false,
+                "gender": "male"
+            },
+            "Casey Nicholaw": {
+                "name_of_work": "Some Like It Hot",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2022": {
+        "writing": {
+            "Michael R. Jackson": {
+                "name_of_work": "A Strange Loop",
+                "winner": true,
+                "gender": "male"
+            },
+            "Conor McPherson": {
+                "name_of_work": "Girl From The North Country",
+                "winner": false,
+                "gender": "male"
+            },
+            "Lynn Nottage": {
+                "name_of_work": "MJ The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Billy Crystal": {
+                "name_of_work": "Mr. Saturday Night",
+                "winner": false,
+                "gender": "female"
+            },
+            "Lowell Ganz": {
+                "name_of_work": "Mr. Saturday Night",
+                "winner": false,
+                "gender": "female"
+            },
+            "Babaloo Mandel": {
+                "name_of_work": "Mr. Saturday Night",
+                "winner": false,
+                "gender": "female"
+            },
+            "Christina Anderson": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "female"
+            },
+            "Larry Kirwan": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "male"
+            },
+            "Craig Lucas": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Toby Marlow": {
+                "name_of_work": "Six",
+                "winner": true,
+                "gender": "male"
+            },
+            "Lucy Moss": {
+                "name_of_work": "Six",
+                "winner": true,
+                "gender": "female"
+            },
+            "Michael R. Jackson": {
+                "name_of_work": "A Strange Loop",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tom Kitt": {
+                "name_of_work": "Flying Over Sunset",
+                "winner": false,
+                "gender": "female"
+            },
+            "Michael Korie": {
+                "name_of_work": "Flying Over Sunset",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jason Robert Brown": {
+                "name_of_work": "Mr. Saturday Night",
+                "winner": false,
+                "gender": "male"
+            },
+            "Amanda Green": {
+                "name_of_work": "Mr. Saturday Night",
+                "winner": false,
+                "gender": "female"
+            },
+            "Masi Asare": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jason Howland": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nathan Tysen": {
+                "name_of_work": "Paradise Square",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mikhail Fiksel": {
+                "name_of_work": "Dana H.",
+                "winner": true,
+                "gender": "male"
+            },
+            "Justin Ellington": {
+                "name_of_work": "for colored girls who have considered suicide / when the rainbow is enuf",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mikaal Sulaiman": {
+                "name_of_work": "Macbeth",
+                "winner": false,
+                "gender": "male"
+            },
+            "Dominic Bilkey": {
+                "name_of_work": "The Lehman Trilogy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nick Powell": {
+                "name_of_work": "The Lehman Trilogy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Palmer Hefferan": {
+                "name_of_work": "The Skin of Our Teeth",
+                "winner": false,
+                "gender": "female"
+            },
+            "Gareth Owen": {
+                "name_of_work": "MJ The Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Drew Levy": {
+                "name_of_work": "A Strange Loop",
+                "winner": false,
+                "gender": "male"
+            },
+            "Autograph": {
+                "name_of_work": "Company",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ian Dickinson": {
+                "name_of_work": "Company",
+                "winner": false,
+                "gender": "male"
+            },
+            "Simon Baker": {
+                "name_of_work": "Girl From The North Country",
+                "winner": false,
+                "gender": "male"
+            },
+            "Paul Gatehouse": {
+                "name_of_work": "Six",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Sam Mendes": {
+                "name_of_work": "The Lehman Trilogy",
+                "winner": true,
+                "gender": "male"
+            },
+            "Neil Pepe": {
+                "name_of_work": "American Buffalo",
+                "winner": false,
+                "gender": "male"
+            },
+            "Les Waters": {
+                "name_of_work": "Dana H.",
+                "winner": false,
+                "gender": "male"
+            },
+            "Camille A. Brown": {
+                "name_of_work": "for colored girls who have considered suicide / when the rainbow is enuf",
+                "winner": false,
+                "gender": "female"
+            },
+            "Lileana Blain-Cruz": {
+                "name_of_work": "The Skin of Our Teeth",
+                "winner": false,
+                "gender": "female"
+            },
+            "Marianne Elliott": {
+                "name_of_work": "Company",
+                "winner": true,
+                "gender": "female"
+            },
+            "Stephen Brackett": {
+                "name_of_work": "A Strange Loop",
+                "winner": false,
+                "gender": "male"
+            },
+            "Conor McPherson": {
+                "name_of_work": "Girl From The North Country",
+                "winner": false,
+                "gender": "male"
+            },
+            "Christopher Wheeldon": {
+                "name_of_work": "MJ The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jamie Armitage": {
+                "name_of_work": "Six",
+                "winner": false,
+                "gender": "male"
+            },
+            "Lucy Moss": {
+                "name_of_work": "Six",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2020": {
+        "writing": {
+            "Diablo Cody": {
+                "name_of_work": "Jagged Little Pill",
+                "winner": true,
+                "gender": "female"
+            },
+            "John Logan": {
+                "name_of_work": "Moulin Rouge! The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Katori Hall": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "female"
+            },
+            "Frank Ketelaar": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kees Prins": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Christopher Nightingale": {
+                "name_of_work": "A Christmas Carol",
+                "winner": true,
+                "gender": "male"
+            },
+            "Lindsay Jones": {
+                "name_of_work": "Slave Play",
+                "winner": false,
+                "gender": "female"
+            },
+            "Paul Englishby": {
+                "name_of_work": "The Inheritance",
+                "winner": false,
+                "gender": "female"
+            },
+            "Fitz Patton": {
+                "name_of_work": "The Rose Tattoo",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jason Michael Webb": {
+                "name_of_work": "The Rose Tattoo",
+                "winner": false,
+                "gender": "male"
+            },
+            "Daniel Kluger": {
+                "name_of_work": "The Sound Inside",
+                "winner": false,
+                "gender": "male"
+            },
+            "Simon Baker": {
+                "name_of_work": "A Christmas Carol",
+                "winner": true,
+                "gender": "male"
+            },
+            "Paul Arditti": {
+                "name_of_work": "The Inheritance",
+                "winner": false,
+                "gender": "male"
+            },
+            "Christopher Reid": {
+                "name_of_work": "The Inheritance",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "Moulin Rouge! The Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Jonathan Deans": {
+                "name_of_work": "Jagged Little Pill",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nevin Steinberg": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Stephen Daldry": {
+                "name_of_work": "The Inheritance",
+                "winner": true,
+                "gender": "female"
+            },
+            "Kenny Leon": {
+                "name_of_work": "A Soldier's Play",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jamie Lloyd": {
+                "name_of_work": "Betrayal",
+                "winner": false,
+                "gender": "male"
+            },
+            "Robert O'Hara": {
+                "name_of_work": "Slave Play",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Cromer": {
+                "name_of_work": "The Sound Inside",
+                "winner": false,
+                "gender": "male"
+            },
+            "Alex Timbers": {
+                "name_of_work": "Moulin Rouge! The Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Diane Paulus": {
+                "name_of_work": "Jagged Little Pill",
+                "winner": false,
+                "gender": "female"
+            },
+            "Phyllida Lloyd": {
+                "name_of_work": "Tina",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2019": {
+        "writing": {
+            "Robert Horn": {
+                "name_of_work": "Tootsie",
+                "winner": true,
+                "gender": "male"
+            },
+            "Dominique Morisseau": {
+                "name_of_work": "Ain't Too Proud",
+                "winner": false,
+                "gender": "female"
+            },
+            "Scott Brown": {
+                "name_of_work": "Beetlejuice",
+                "winner": false,
+                "gender": "male"
+            },
+            "Anthony King": {
+                "name_of_work": "Beetlejuice",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ana\u00c3\u00afs Mitchell": {
+                "name_of_work": "Hadestown",
+                "winner": false,
+                "gender": "male"
+            },
+            "Chad Beguelin": {
+                "name_of_work": "The Prom",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bob Martin": {
+                "name_of_work": "The Prom",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Ana\u00c3\u00afs Mitchell": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "male"
+            },
+            "Joe Iconis": {
+                "name_of_work": "Be More Chill",
+                "winner": false,
+                "gender": "male"
+            },
+            "Eddie Perfect": {
+                "name_of_work": "Beetlejuice",
+                "winner": false,
+                "gender": "male"
+            },
+            "Chad Beguelin": {
+                "name_of_work": "The Prom",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matthew Sklar": {
+                "name_of_work": "The Prom",
+                "winner": false,
+                "gender": "female"
+            },
+            "Adam Guettel": {
+                "name_of_work": "To Kill a Mockingbird",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Yazbek": {
+                "name_of_work": "Tootsie",
+                "winner": false,
+                "gender": "male"
+            },
+            "Fitz Patton": {
+                "name_of_work": "Choir Boy",
+                "winner": true,
+                "gender": "male"
+            },
+            "Adam Cork": {
+                "name_of_work": "Ink",
+                "winner": false,
+                "gender": "male"
+            },
+            "Eric Sleichim": {
+                "name_of_work": "Network",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nick Powell": {
+                "name_of_work": "The Ferryman",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "To Kill a Mockingbird",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jessica Paz": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "female"
+            },
+            "Nevin Steinberg": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "male"
+            },
+            "Steve Canyon Kennedy": {
+                "name_of_work": "Ain't Too Proud",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "King Kong",
+                "winner": false,
+                "gender": "male"
+            },
+            "Drew Levy": {
+                "name_of_work": "Oklahoma!",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Sam Mendes": {
+                "name_of_work": "The Ferryman",
+                "winner": true,
+                "gender": "male"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "Gary: A Sequel to Titus Andronicus",
+                "winner": false,
+                "gender": "male"
+            },
+            "Rupert Goold": {
+                "name_of_work": "Ink",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ivo van Hove": {
+                "name_of_work": "Network",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "To Kill a Mockingbird",
+                "winner": false,
+                "gender": "male"
+            },
+            "Rachel Chavkin": {
+                "name_of_work": "Hadestown",
+                "winner": true,
+                "gender": "female"
+            },
+            "Des McAnuff": {
+                "name_of_work": "Ain't Too Proud",
+                "winner": false,
+                "gender": "male"
+            },
+            "Daniel Fish": {
+                "name_of_work": "Oklahoma!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Casey Nicholaw": {
+                "name_of_work": "The Prom",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Ellis": {
+                "name_of_work": "Tootsie",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2018": {
+        "writing": {
+            "Itamar Moses": {
+                "name_of_work": "The Band's Visit",
+                "winner": true,
+                "gender": "male"
+            },
+            "Jennifer Lee": {
+                "name_of_work": "Frozen",
+                "winner": false,
+                "gender": "female"
+            },
+            "Tina Fey": {
+                "name_of_work": "Mean Girls",
+                "winner": false,
+                "gender": "female"
+            },
+            "Kyle Jarrow": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "David Yazbek": {
+                "name_of_work": "The Band's Visit",
+                "winner": true,
+                "gender": "male"
+            },
+            "Adrian Sutton": {
+                "name_of_work": "Angels in America: Perestroika",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kristen Anderson-Lopez": {
+                "name_of_work": "Frozen",
+                "winner": false,
+                "gender": "female"
+            },
+            "Robert Lopez": {
+                "name_of_work": "Frozen",
+                "winner": false,
+                "gender": "female"
+            },
+            "Nell Benjamin": {
+                "name_of_work": "Mean Girls",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jeff Richmond": {
+                "name_of_work": "Mean Girls",
+                "winner": false,
+                "gender": "female"
+            },
+            "Yolanda Adams": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "female"
+            },
+            "Alex Ebert of Edward Sharpe & The Magnetic Zeros": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sara Bareilles": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jonathan Coulton": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "female"
+            },
+            "Domani": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "The Flaming Lips": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Rob Hyman": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Lady Antebellum": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Cyndi Lauper": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "female"
+            },
+            "John Legend": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Lil' C": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Panic! At the Disco": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Plain White T's": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Steven Tyler & Joe Perry of Aerosmith": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "They Might Be Giants": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "T.I.": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Gareth Fry": {
+                "name_of_work": "Harry Potter and the Cursed Child, Parts One and Two",
+                "winner": true,
+                "gender": "male"
+            },
+            "Tom Gibbons": {
+                "name_of_work": "1984",
+                "winner": false,
+                "gender": "male"
+            },
+            "Autograph": {
+                "name_of_work": "Angels in America: Perestroika",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ian Dickinson": {
+                "name_of_work": "Angels in America: Perestroika",
+                "winner": false,
+                "gender": "male"
+            },
+            "Dan Moses Schreier": {
+                "name_of_work": "The Iceman Cometh",
+                "winner": false,
+                "gender": "male"
+            },
+            "Adam Cork": {
+                "name_of_work": "Travesties",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kai Harada": {
+                "name_of_work": "The Band's Visit",
+                "winner": true,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "Carousel",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brian Ronan": {
+                "name_of_work": "Mean Girls",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "Once on This Island",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mike Dobson": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            },
+            "Walter Trarbach": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "John Tiffany": {
+                "name_of_work": "Harry Potter and the Cursed Child, Parts One and Two",
+                "winner": true,
+                "gender": "male"
+            },
+            "Marianne Elliott": {
+                "name_of_work": "Angels in America: Perestroika",
+                "winner": false,
+                "gender": "female"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "The Iceman Cometh",
+                "winner": false,
+                "gender": "male"
+            },
+            "Joe Mantello": {
+                "name_of_work": "Three Tall Women",
+                "winner": false,
+                "gender": "male"
+            },
+            "Patrick Marber": {
+                "name_of_work": "Travesties",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Cromer": {
+                "name_of_work": "The Band's Visit",
+                "winner": true,
+                "gender": "male"
+            },
+            "Casey Nicholaw": {
+                "name_of_work": "Mean Girls",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "My Fair Lady",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Arden": {
+                "name_of_work": "Once on This Island",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tina Landau": {
+                "name_of_work": "SpongeBob SquarePants",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2017": {
+        "writing": {
+            "Steven Levenson": {
+                "name_of_work": "Dear Evan Hansen",
+                "winner": true,
+                "gender": "male"
+            },
+            "David Hein": {
+                "name_of_work": "Come From Away",
+                "winner": false,
+                "gender": "male"
+            },
+            "Irene Sankoff": {
+                "name_of_work": "Come From Away",
+                "winner": false,
+                "gender": "female"
+            },
+            "Danny Rubin": {
+                "name_of_work": "Groundhog Day",
+                "winner": false,
+                "gender": "male"
+            },
+            "Dave Malloy": {
+                "name_of_work": "Natasha, Pierre & The Great Comet of 1812",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Benj Pasek": {
+                "name_of_work": "Dear Evan Hansen",
+                "winner": true,
+                "gender": "female"
+            },
+            "Justin Paul": {
+                "name_of_work": "Dear Evan Hansen",
+                "winner": true,
+                "gender": "female"
+            },
+            "David Hein": {
+                "name_of_work": "Come From Away",
+                "winner": false,
+                "gender": "male"
+            },
+            "Irene Sankoff": {
+                "name_of_work": "Come From Away",
+                "winner": false,
+                "gender": "female"
+            },
+            "Tim Minchin": {
+                "name_of_work": "Groundhog Day",
+                "winner": false,
+                "gender": "male"
+            },
+            "Dave Malloy": {
+                "name_of_work": "Natasha, Pierre & The Great Comet of 1812",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Rebecca Taichman": {
+                "name_of_work": "Indecent",
+                "winner": true,
+                "gender": "female"
+            },
+            "Sam Gold": {
+                "name_of_work": "A Doll's House, Part 2",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ruben Santiago-Hudson": {
+                "name_of_work": "Jitney",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "Oslo",
+                "winner": false,
+                "gender": "male"
+            },
+            "Daniel Sullivan": {
+                "name_of_work": "The Little Foxes",
+                "winner": false,
+                "gender": "male"
+            },
+            "Christopher Ashley": {
+                "name_of_work": "Come From Away",
+                "winner": true,
+                "gender": "male"
+            },
+            "Michael Greif": {
+                "name_of_work": "Dear Evan Hansen",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matthew Warchus": {
+                "name_of_work": "Groundhog Day",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jerry Zaks": {
+                "name_of_work": "Hello, Dolly!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Rachel Chavkin": {
+                "name_of_work": "Natasha, Pierre & The Great Comet of 1812",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2016": {
+        "writing": {
+            "Lin-Manuel Miranda": {
+                "name_of_work": "Hamilton",
+                "winner": true,
+                "gender": "female"
+            },
+            "Steve Martin": {
+                "name_of_work": "Bright Star",
+                "winner": false,
+                "gender": "female"
+            },
+            "Julian Fellowes": {
+                "name_of_work": "School of Rock \u00e2\u20ac\u201c The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "Shuffle Along, Or The Making of the Musical Sensation of 1921 and All That Followed",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Lin-Manuel Miranda": {
+                "name_of_work": "Hamilton",
+                "winner": true,
+                "gender": "female"
+            },
+            "Edie Brickell": {
+                "name_of_work": "Bright Star",
+                "winner": false,
+                "gender": "female"
+            },
+            "Steve Martin": {
+                "name_of_work": "Bright Star",
+                "winner": false,
+                "gender": "female"
+            },
+            "Andrew Lloyd Webber": {
+                "name_of_work": "School of Rock \u00e2\u20ac\u201c The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Glenn Slater": {
+                "name_of_work": "School of Rock \u00e2\u20ac\u201c The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Sara Bareilles": {
+                "name_of_work": "Waitress",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "directing": {
+            "Ivo van Hove": {
+                "name_of_work": "A View From the Bridge",
+                "winner": true,
+                "gender": "male"
+            },
+            "Liesl Tommy": {
+                "name_of_work": "Eclipsed",
+                "winner": false,
+                "gender": "female"
+            },
+            "Rupert Goold": {
+                "name_of_work": "King Charles III",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jonathan Kent": {
+                "name_of_work": "Long Day's Journey Into Night",
+                "winner": false,
+                "gender": "male"
+            },
+            "Joe Mantello": {
+                "name_of_work": "The Humans",
+                "winner": false,
+                "gender": "male"
+            },
+            "Thomas Kail": {
+                "name_of_work": "Hamilton",
+                "winner": true,
+                "gender": "female"
+            },
+            "Scott Ellis": {
+                "name_of_work": "She Loves Me",
+                "winner": false,
+                "gender": "female"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "Shuffle Along, Or The Making of the Musical Sensation of 1921 and All That Followed",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Arden": {
+                "name_of_work": "Spring Awakening",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Doyle": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2015": {
+        "writing": {
+            "Lisa Kron": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "female"
+            },
+            "Craig Lucas": {
+                "name_of_work": "An American in Paris",
+                "winner": false,
+                "gender": "male"
+            },
+            "Karey Kirkpatrick": {
+                "name_of_work": "Something Rotten!",
+                "winner": false,
+                "gender": "male"
+            },
+            "John O'Farrell": {
+                "name_of_work": "Something Rotten!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Terrence McNally": {
+                "name_of_work": "The Visit",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Lisa Kron": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "female"
+            },
+            "Jeanine Tesori": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "female"
+            },
+            "Karey Kirkpatrick": {
+                "name_of_work": "Something Rotten!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Wayne Kirkpatrick": {
+                "name_of_work": "Something Rotten!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sting": {
+                "name_of_work": "The Last Ship",
+                "winner": false,
+                "gender": "female"
+            },
+            "Fred Ebb": {
+                "name_of_work": "The Visit",
+                "winner": false,
+                "gender": "female"
+            },
+            "John Kander": {
+                "name_of_work": "The Visit",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "directing": {
+            "Marianne Elliott": {
+                "name_of_work": "The Curious Incident of the Dog in the Night-Time",
+                "winner": true,
+                "gender": "female"
+            },
+            "Moritz von Stuelpnagel": {
+                "name_of_work": "Hand to God",
+                "winner": false,
+                "gender": "male"
+            },
+            "Stephen Daldry": {
+                "name_of_work": "Skylight",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jeremy Herrin": {
+                "name_of_work": "Wolf Hall Parts One & Two",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Ellis": {
+                "name_of_work": "You Can't Take It With You",
+                "winner": false,
+                "gender": "female"
+            },
+            "Sam Gold": {
+                "name_of_work": "Fun Home",
+                "winner": true,
+                "gender": "male"
+            },
+            "Christopher Wheeldon": {
+                "name_of_work": "An American in Paris",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Rando": {
+                "name_of_work": "On the Town",
+                "winner": false,
+                "gender": "male"
+            },
+            "Casey Nicholaw": {
+                "name_of_work": "Something Rotten!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "The King and I",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2014": {
+        "writing": {
+            "Robert L. Freedman": {
+                "name_of_work": "A Gentleman's Guide to Love & Murder",
+                "winner": true,
+                "gender": "male"
+            },
+            "Chad Beguelin": {
+                "name_of_work": "Aladdin",
+                "winner": false,
+                "gender": "male"
+            },
+            "Douglas McGrath": {
+                "name_of_work": "Beautiful The Carole King Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Woody Allen": {
+                "name_of_work": "Bullets Over Broadway",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "music": {
+            "Jason Robert Brown": {
+                "name_of_work": "The Bridges of Madison County",
+                "winner": true,
+                "gender": "male"
+            },
+            "Robert L. Freedman": {
+                "name_of_work": "A Gentleman's Guide to Love & Murder",
+                "winner": false,
+                "gender": "male"
+            },
+            "Steven Lutvak": {
+                "name_of_work": "A Gentleman's Guide to Love & Murder",
+                "winner": false,
+                "gender": "male"
+            },
+            "Howard Ashman": {
+                "name_of_work": "Aladdin",
+                "winner": false,
+                "gender": "male"
+            },
+            "Chad Beguelin": {
+                "name_of_work": "Aladdin",
+                "winner": false,
+                "gender": "male"
+            },
+            "Alan Menken": {
+                "name_of_work": "Aladdin",
+                "winner": false,
+                "gender": "female"
+            },
+            "Tim Rice": {
+                "name_of_work": "Aladdin",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tom Kitt": {
+                "name_of_work": "If/Then",
+                "winner": false,
+                "gender": "female"
+            },
+            "Brian Yorkey": {
+                "name_of_work": "If/Then",
+                "winner": false,
+                "gender": "male"
+            },
+            "Steve Canyon Kennedy": {
+                "name_of_work": "Lady Day at Emerson's Bar & Grill",
+                "winner": true,
+                "gender": "male"
+            },
+            "Dan Moses Schreier": {
+                "name_of_work": "Act One",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matt Tierney": {
+                "name_of_work": "Machinal",
+                "winner": false,
+                "gender": "male"
+            },
+            "Alex Baranowski": {
+                "name_of_work": "The Cripple of Inishmaan",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brian Ronan": {
+                "name_of_work": "Beautiful The Carole King Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "After Midnight",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tim O'Heir": {
+                "name_of_work": "Hedwig and the Angry Inch",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mick Potter": {
+                "name_of_work": "Les Mis\u00c3\u00a9rables",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Kenny Leon": {
+                "name_of_work": "A Raisin in the Sun",
+                "winner": true,
+                "gender": "male"
+            },
+            "Michael Grandage": {
+                "name_of_work": "The Cripple of Inishmaan",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Tiffany": {
+                "name_of_work": "The Glass Menagerie",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tim Carroll": {
+                "name_of_work": "Twelfth Night",
+                "winner": false,
+                "gender": "male"
+            },
+            "Darko Tresnjak": {
+                "name_of_work": "A Gentleman's Guide to Love & Murder",
+                "winner": true,
+                "gender": "male"
+            },
+            "Warren Carlyle": {
+                "name_of_work": "After Midnight",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Mayer": {
+                "name_of_work": "Hedwig and the Angry Inch",
+                "winner": false,
+                "gender": "male"
+            },
+            "Leigh Silverman": {
+                "name_of_work": "Violet",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2013": {
+        "writing": {
+            "Dennis Kelly": {
+                "name_of_work": "Matilda The Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Joseph Robinette": {
+                "name_of_work": "A Christmas Story The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Harvey Fierstein": {
+                "name_of_work": "Kinky Boots",
+                "winner": false,
+                "gender": "male"
+            },
+            "Douglas Carter Beane": {
+                "name_of_work": "Rodgers + Hammerstein's Cinderella",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Cyndi Lauper": {
+                "name_of_work": "Kinky Boots",
+                "winner": true,
+                "gender": "female"
+            },
+            "Benj Pasek": {
+                "name_of_work": "A Christmas Story The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Justin Paul": {
+                "name_of_work": "A Christmas Story The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Trey Anastasio": {
+                "name_of_work": "Hands on a Hardbody",
+                "winner": false,
+                "gender": "male"
+            },
+            "Amanda Green": {
+                "name_of_work": "Hands on a Hardbody",
+                "winner": false,
+                "gender": "female"
+            },
+            "Tim Minchin": {
+                "name_of_work": "Matilda The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Leon Rothenberg": {
+                "name_of_work": "The Nance",
+                "winner": true,
+                "gender": "male"
+            },
+            "Marc Salzberg": {
+                "name_of_work": "Golden Boy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter John Still": {
+                "name_of_work": "Golden Boy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mel Mercier": {
+                "name_of_work": "The Testament of Mary",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Gromada": {
+                "name_of_work": "The Trip to Bountiful",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Shivers": {
+                "name_of_work": "Kinky Boots",
+                "winner": true,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "Motown The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jonathan Deans": {
+                "name_of_work": "Pippin",
+                "winner": false,
+                "gender": "male"
+            },
+            "Garth Helm": {
+                "name_of_work": "Pippin",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nevin Steinberg": {
+                "name_of_work": "Rodgers + Hammerstein's Cinderella",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Pam MacKinnon": {
+                "name_of_work": "Who's Afraid of Virginia Woolf?",
+                "winner": true,
+                "gender": "female"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "Golden Boy",
+                "winner": false,
+                "gender": "male"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "Lucky Guy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nicholas Martin": {
+                "name_of_work": "Vanya and Sonia and Masha and Spike",
+                "winner": false,
+                "gender": "male"
+            },
+            "Diane Paulus": {
+                "name_of_work": "Pippin",
+                "winner": true,
+                "gender": "female"
+            },
+            "Jerry Mitchell": {
+                "name_of_work": "Kinky Boots",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matthew Warchus": {
+                "name_of_work": "Matilda The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Ellis": {
+                "name_of_work": "The Mystery of Edwin Drood",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2012": {
+        "writing": {
+            "Enda Walsh": {
+                "name_of_work": "Once",
+                "winner": true,
+                "gender": "male"
+            },
+            "Douglas Carter Beane": {
+                "name_of_work": "Lysistrata Jones",
+                "winner": false,
+                "gender": "male"
+            },
+            "Harvey Fierstein": {
+                "name_of_work": "Newsies The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Joe DiPietro": {
+                "name_of_work": "Nice Work If You Can Get It",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Jack Feldman": {
+                "name_of_work": "Newsies The Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Alan Menken": {
+                "name_of_work": "Newsies The Musical",
+                "winner": true,
+                "gender": "female"
+            },
+            "Don Black": {
+                "name_of_work": "Bonnie and Clyde",
+                "winner": false,
+                "gender": "male"
+            },
+            "Frank Wildhorn": {
+                "name_of_work": "Bonnie and Clyde",
+                "winner": false,
+                "gender": "male"
+            },
+            "Grant Olding": {
+                "name_of_work": "One Man, Two Guvnors",
+                "winner": false,
+                "gender": "male"
+            },
+            "Wayne Barker": {
+                "name_of_work": "Peter and the Starcatcher",
+                "winner": false,
+                "gender": "male"
+            },
+            "Rick Elice": {
+                "name_of_work": "Peter and the Starcatcher",
+                "winner": false,
+                "gender": "male"
+            },
+            "Darron L. West": {
+                "name_of_work": "Peter and the Starcatcher",
+                "winner": true,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "Death of a Salesman",
+                "winner": false,
+                "gender": "male"
+            },
+            "Gareth Owen": {
+                "name_of_work": "End of the Rainbow",
+                "winner": false,
+                "gender": "male"
+            },
+            "Paul Arditti": {
+                "name_of_work": "One Man, Two Guvnors",
+                "winner": false,
+                "gender": "male"
+            },
+            "Clive Goodwin": {
+                "name_of_work": "Once",
+                "winner": true,
+                "gender": "male"
+            },
+            "Kai Harada": {
+                "name_of_work": "Follies",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brian Ronan": {
+                "name_of_work": "Nice Work If You Can Get It",
+                "winner": false,
+                "gender": "male"
+            },
+            "Acme Sound Partners": {
+                "name_of_work": "The Gershwins' Porgy and Bess",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Mike Nichols": {
+                "name_of_work": "Death of a Salesman",
+                "winner": true,
+                "gender": "male"
+            },
+            "Pam MacKinnon": {
+                "name_of_work": "Clybourne Park",
+                "winner": false,
+                "gender": "female"
+            },
+            "Nicholas Hytner": {
+                "name_of_work": "One Man, Two Guvnors",
+                "winner": false,
+                "gender": "male"
+            },
+            "Roger Rees": {
+                "name_of_work": "Peter and the Starcatcher",
+                "winner": false,
+                "gender": "male"
+            },
+            "Alex Timbers": {
+                "name_of_work": "Peter and the Starcatcher",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Tiffany": {
+                "name_of_work": "Once",
+                "winner": true,
+                "gender": "male"
+            },
+            "Jeff Calhoun": {
+                "name_of_work": "Newsies The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kathleen Marshall": {
+                "name_of_work": "Nice Work If You Can Get It",
+                "winner": false,
+                "gender": "female"
+            },
+            "Diane Paulus": {
+                "name_of_work": "The Gershwins' Porgy and Bess",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2011": {
+        "writing": {
+            "Robert Lopez": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "female"
+            },
+            "Trey Parker": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "female"
+            },
+            "Matt Stone": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "male"
+            },
+            "Alex Timbers": {
+                "name_of_work": "Bloody Bloody Andrew Jackson",
+                "winner": false,
+                "gender": "male"
+            },
+            "Douglas Carter Beane": {
+                "name_of_work": "Sister Act",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bill Steinkellner": {
+                "name_of_work": "Sister Act",
+                "winner": false,
+                "gender": "male"
+            },
+            "Cheri Steinkellner": {
+                "name_of_work": "Sister Act",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Thompson": {
+                "name_of_work": "The Scottsboro Boys",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Robert Lopez": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "female"
+            },
+            "Trey Parker": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "female"
+            },
+            "Matt Stone": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "male"
+            },
+            "Alan Menken": {
+                "name_of_work": "Sister Act",
+                "winner": false,
+                "gender": "female"
+            },
+            "Glenn Slater": {
+                "name_of_work": "Sister Act",
+                "winner": false,
+                "gender": "female"
+            },
+            "Fred Ebb": {
+                "name_of_work": "The Scottsboro Boys",
+                "winner": false,
+                "gender": "female"
+            },
+            "John Kander": {
+                "name_of_work": "The Scottsboro Boys",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Yazbek": {
+                "name_of_work": "Women on the Verge of a Nervous Breakdown",
+                "winner": false,
+                "gender": "male"
+            },
+            "Christopher Shutt": {
+                "name_of_work": "War Horse",
+                "winner": true,
+                "gender": "male"
+            },
+            "Acme Sound Partners": {
+                "name_of_work": "Bengal Tiger at the Baghdad Zoo",
+                "winner": false,
+                "gender": "male"
+            },
+            "Cricket S. Myers": {
+                "name_of_work": "Bengal Tiger at the Baghdad Zoo",
+                "winner": false,
+                "gender": "female"
+            },
+            "Simon Baker": {
+                "name_of_work": "Brief Encounter",
+                "winner": false,
+                "gender": "male"
+            },
+            "Autograph": {
+                "name_of_work": "Jerusalem",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ian Dickinson": {
+                "name_of_work": "Jerusalem",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brian Ronan": {
+                "name_of_work": "Anything Goes",
+                "winner": false,
+                "gender": "male"
+            },
+            "Steve Canyon Kennedy": {
+                "name_of_work": "Catch Me If You Can",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "The Scottsboro Boys",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Marianne Elliott": {
+                "name_of_work": "War Horse",
+                "winner": true,
+                "gender": "female"
+            },
+            "Tom Morris": {
+                "name_of_work": "War Horse",
+                "winner": true,
+                "gender": "male"
+            },
+            "Daniel Sullivan": {
+                "name_of_work": "The Merchant of Venice",
+                "winner": false,
+                "gender": "male"
+            },
+            "Anna D. Shapiro": {
+                "name_of_work": "The Motherfucker with the Hat",
+                "winner": false,
+                "gender": "female"
+            },
+            "Joel Grey": {
+                "name_of_work": "The Normal Heart",
+                "winner": false,
+                "gender": "male"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "The Normal Heart",
+                "winner": false,
+                "gender": "male"
+            },
+            "Casey Nicholaw": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "male"
+            },
+            "Trey Parker": {
+                "name_of_work": "The Book of Mormon",
+                "winner": true,
+                "gender": "female"
+            },
+            "Kathleen Marshall": {
+                "name_of_work": "Anything Goes",
+                "winner": false,
+                "gender": "female"
+            },
+            "Rob Ashford": {
+                "name_of_work": "How to Succeed in Business Without Really Trying",
+                "winner": false,
+                "gender": "female"
+            },
+            "Susan Stroman": {
+                "name_of_work": "The Scottsboro Boys",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2010": {
+        "writing": {
+            "Joe DiPietro": {
+                "name_of_work": "Memphis",
+                "winner": true,
+                "gender": "male"
+            },
+            "Dick Scanlan": {
+                "name_of_work": "Everyday Rapture",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sherie Rene Scott": {
+                "name_of_work": "Everyday Rapture",
+                "winner": false,
+                "gender": "female"
+            },
+            "Bill T. Jones": {
+                "name_of_work": "Fela!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jim Lewis": {
+                "name_of_work": "Fela!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Colin Escott": {
+                "name_of_work": "Million Dollar Quartet",
+                "winner": false,
+                "gender": "male"
+            },
+            "Floyd Mutrux": {
+                "name_of_work": "Million Dollar Quartet",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "David Bryan": {
+                "name_of_work": "Memphis",
+                "winner": true,
+                "gender": "male"
+            },
+            "Joe DiPietro": {
+                "name_of_work": "Memphis",
+                "winner": true,
+                "gender": "male"
+            },
+            "Adam Cork": {
+                "name_of_work": "Enron",
+                "winner": false,
+                "gender": "male"
+            },
+            "Lucy Prebble": {
+                "name_of_work": "Enron",
+                "winner": false,
+                "gender": "female"
+            },
+            "Branford Marsalis": {
+                "name_of_work": "Fences",
+                "winner": false,
+                "gender": "male"
+            },
+            "Andrew Lippa": {
+                "name_of_work": "The Addams Family",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "A View From the Bridge",
+                "winner": false,
+                "gender": "male"
+            },
+            "Acme Sound Partners": {
+                "name_of_work": "Fences",
+                "winner": false,
+                "gender": "male"
+            },
+            "Robert Kaplowitz": {
+                "name_of_work": "Fela!",
+                "winner": true,
+                "gender": "male"
+            },
+            "Gareth Owen": {
+                "name_of_work": "A Little Night Music",
+                "winner": false,
+                "gender": "male"
+            },
+            "Dan Moses Schreier": {
+                "name_of_work": "Sondheim on Sondheim",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jonathan Deans": {
+                "name_of_work": "La Cage aux Folles",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Michael Grandage": {
+                "name_of_work": "Red",
+                "winner": true,
+                "gender": "male"
+            },
+            "Gregory Mosher": {
+                "name_of_work": "A View From the Bridge",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kenny Leon": {
+                "name_of_work": "Fences",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sheryl Kaller": {
+                "name_of_work": "Next Fall",
+                "winner": false,
+                "gender": "female"
+            },
+            "Terry Johnson": {
+                "name_of_work": "La Cage aux Folles",
+                "winner": true,
+                "gender": "male"
+            },
+            "Bill T. Jones": {
+                "name_of_work": "Fela!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Christopher Ashley": {
+                "name_of_work": "Memphis",
+                "winner": false,
+                "gender": "male"
+            },
+            "Marcia Milgrom Dodge": {
+                "name_of_work": "Ragtime",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2009": {
+        "writing": {
+            "Lee Hall": {
+                "name_of_work": "Billy Elliot: The Musical",
+                "winner": true,
+                "gender": "female"
+            },
+            "Hunter Bell": {
+                "name_of_work": "[title of show]",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brian Yorkey": {
+                "name_of_work": "Next To Normal",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Lindsay-Abaire": {
+                "name_of_work": "Shrek The Musical",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Tom Kitt": {
+                "name_of_work": "Next To Normal",
+                "winner": true,
+                "gender": "female"
+            },
+            "Brian Yorkey": {
+                "name_of_work": "Next To Normal",
+                "winner": true,
+                "gender": "male"
+            },
+            "Dolly Parton": {
+                "name_of_work": "9 to 5",
+                "winner": false,
+                "gender": "female"
+            },
+            "Lee Hall": {
+                "name_of_work": "Billy Elliot: The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Elton John": {
+                "name_of_work": "Billy Elliot: The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Lindsay-Abaire": {
+                "name_of_work": "Shrek The Musical",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jeanine Tesori": {
+                "name_of_work": "Shrek The Musical",
+                "winner": false,
+                "gender": "female"
+            },
+            "Gregory Clarke": {
+                "name_of_work": "Equus",
+                "winner": true,
+                "gender": "male"
+            },
+            "Russell Goldsmith": {
+                "name_of_work": "Exit the King",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "Joe Turner's Come and Gone",
+                "winner": false,
+                "gender": "male"
+            },
+            "Leon Rothenberg": {
+                "name_of_work": "Joe Turner's Come and Gone",
+                "winner": false,
+                "gender": "male"
+            },
+            "Paul Arditti": {
+                "name_of_work": "Billy Elliot: The Musical",
+                "winner": true,
+                "gender": "male"
+            },
+            "Acme Sound Partners": {
+                "name_of_work": "Hair",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brian Ronan": {
+                "name_of_work": "Next To Normal",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter Hylenski": {
+                "name_of_work": "Rock of Ages",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Matthew Warchus": {
+                "name_of_work": "The Norman Conquests: Table Manners",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "Joe Turner's Come and Gone",
+                "winner": false,
+                "gender": "male"
+            },
+            "Phyllida Lloyd": {
+                "name_of_work": "Mary Stuart",
+                "winner": false,
+                "gender": "female"
+            },
+            "Stephen Daldry": {
+                "name_of_work": "Billy Elliot: The Musical",
+                "winner": true,
+                "gender": "female"
+            },
+            "Diane Paulus": {
+                "name_of_work": "Hair",
+                "winner": false,
+                "gender": "female"
+            },
+            "Michael Greif": {
+                "name_of_work": "Next To Normal",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kristin Hanggi": {
+                "name_of_work": "Rock of Ages",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2008": {
+        "writing": {
+            "Stew": {
+                "name_of_work": "Passing Strange",
+                "winner": true,
+                "gender": "male"
+            },
+            "Thomas Meehan": {
+                "name_of_work": "Cry-Baby",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mark O'Donnell": {
+                "name_of_work": "Cry-Baby",
+                "winner": false,
+                "gender": "male"
+            },
+            "Quiara Alegr\u00c3\u00ada Hudes": {
+                "name_of_work": "In the Heights",
+                "winner": false,
+                "gender": "male"
+            },
+            "Douglas Carter Beane": {
+                "name_of_work": "Xanadu",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Lin-Manuel Miranda": {
+                "name_of_work": "In the Heights",
+                "winner": true,
+                "gender": "female"
+            },
+            "David Javerbaum": {
+                "name_of_work": "Cry-Baby",
+                "winner": false,
+                "gender": "female"
+            },
+            "Adam Schlesinger": {
+                "name_of_work": "Cry-Baby",
+                "winner": false,
+                "gender": "female"
+            },
+            "Heidi Rodewald": {
+                "name_of_work": "Passing Strange",
+                "winner": false,
+                "gender": "female"
+            },
+            "Stew": {
+                "name_of_work": "Passing Strange",
+                "winner": false,
+                "gender": "male"
+            },
+            "Howard Ashman": {
+                "name_of_work": "The Little Mermaid",
+                "winner": false,
+                "gender": "male"
+            },
+            "Alan Menken": {
+                "name_of_work": "The Little Mermaid",
+                "winner": false,
+                "gender": "female"
+            },
+            "Glenn Slater": {
+                "name_of_work": "The Little Mermaid",
+                "winner": false,
+                "gender": "female"
+            },
+            "Mic Pool": {
+                "name_of_work": "The 39 Steps",
+                "winner": true,
+                "gender": "male"
+            },
+            "Simon Baker": {
+                "name_of_work": "Boeing-Boeing",
+                "winner": false,
+                "gender": "male"
+            },
+            "Adam Cork": {
+                "name_of_work": "Macbeth",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ian Dickinson": {
+                "name_of_work": "Rock 'n' Roll",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Lehrer": {
+                "name_of_work": "South Pacific",
+                "winner": true,
+                "gender": "male"
+            },
+            "Dan Moses Schreier": {
+                "name_of_work": "Gypsy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Acme Sound Partners": {
+                "name_of_work": "In the Heights",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sebastian Frost": {
+                "name_of_work": "Sunday in the Park with George",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Anna D. Shapiro": {
+                "name_of_work": "August: Osage County",
+                "winner": true,
+                "gender": "female"
+            },
+            "Matthew Warchus": {
+                "name_of_work": "Boeing-Boeing",
+                "winner": false,
+                "gender": "male"
+            },
+            "Maria Aitken": {
+                "name_of_work": "The 39 Steps",
+                "winner": false,
+                "gender": "female"
+            },
+            "Conor McPherson": {
+                "name_of_work": "The Seafarer",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "South Pacific",
+                "winner": true,
+                "gender": "male"
+            },
+            "Arthur Laurents": {
+                "name_of_work": "Gypsy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Thomas Kail": {
+                "name_of_work": "In the Heights",
+                "winner": false,
+                "gender": "female"
+            },
+            "Sam Buntrock": {
+                "name_of_work": "Sunday in the Park with George",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2007": {
+        "writing": {
+            "Steven Sater": {
+                "name_of_work": "Spring Awakening",
+                "winner": true,
+                "gender": "male"
+            },
+            "Rupert Holmes": {
+                "name_of_work": "Curtains",
+                "winner": false,
+                "gender": "male"
+            },
+            "Peter Stone": {
+                "name_of_work": "Curtains",
+                "winner": false,
+                "gender": "male"
+            },
+            "Doug Wright": {
+                "name_of_work": "Grey Gardens",
+                "winner": false,
+                "gender": "male"
+            },
+            "Heather Hach": {
+                "name_of_work": "Legally Blonde",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "music": {
+            "Steven Sater": {
+                "name_of_work": "Spring Awakening",
+                "winner": true,
+                "gender": "male"
+            },
+            "Duncan Sheik": {
+                "name_of_work": "Spring Awakening",
+                "winner": true,
+                "gender": "male"
+            },
+            "Fred Ebb": {
+                "name_of_work": "Curtains",
+                "winner": false,
+                "gender": "female"
+            },
+            "Rupert Holmes": {
+                "name_of_work": "Curtains",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Kander": {
+                "name_of_work": "Curtains",
+                "winner": false,
+                "gender": "female"
+            },
+            "Scott Frankel": {
+                "name_of_work": "Grey Gardens",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Korie": {
+                "name_of_work": "Grey Gardens",
+                "winner": false,
+                "gender": "male"
+            },
+            "Nell Benjamin": {
+                "name_of_work": "Legally Blonde",
+                "winner": false,
+                "gender": "female"
+            },
+            "Laurence O'Keefe": {
+                "name_of_work": "Legally Blonde",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "directing": {
+            "Jack O'Brien": {
+                "name_of_work": "The Coast of Utopia [Part 3 - Salvage]",
+                "winner": true,
+                "gender": "male"
+            },
+            "Melly Still": {
+                "name_of_work": "Coram Boy",
+                "winner": false,
+                "gender": "female"
+            },
+            "Michael Grandage": {
+                "name_of_work": "Frost/Nixon",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Grindley": {
+                "name_of_work": "Journey's End",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Mayer": {
+                "name_of_work": "Spring Awakening",
+                "winner": true,
+                "gender": "male"
+            },
+            "John Doyle": {
+                "name_of_work": "Company",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Ellis": {
+                "name_of_work": "Curtains",
+                "winner": false,
+                "gender": "female"
+            },
+            "Michael Greif": {
+                "name_of_work": "Grey Gardens",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2006": {
+        "directing": {
+            "Nicholas Hytner": {
+                "name_of_work": "The History Boys",
+                "winner": true,
+                "gender": "male"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "Awake and Sing!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Daniel Sullivan": {
+                "name_of_work": "Rabbit Hole",
+                "winner": false,
+                "gender": "male"
+            },
+            "Wilson Milam": {
+                "name_of_work": "The Lieutenant of Inishmore",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Doyle": {
+                "name_of_work": "Sweeney Todd",
+                "winner": true,
+                "gender": "male"
+            },
+            "Des McAnuff": {
+                "name_of_work": "Jersey Boys",
+                "winner": false,
+                "gender": "male"
+            },
+            "Casey Nicholaw": {
+                "name_of_work": "The Drowsy Chaperone",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kathleen Marshall": {
+                "name_of_work": "The Pajama Game",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "writing": {
+            "Bob Martin": {
+                "name_of_work": "The Drowsy Chaperone",
+                "winner": true,
+                "gender": "male"
+            },
+            "Don McKellar": {
+                "name_of_work": "The Drowsy Chaperone",
+                "winner": true,
+                "gender": "male"
+            },
+            "Marshall Brickman": {
+                "name_of_work": "Jersey Boys",
+                "winner": false,
+                "gender": "female"
+            },
+            "Rick Elice": {
+                "name_of_work": "Jersey Boys",
+                "winner": false,
+                "gender": "male"
+            },
+            "Marsha Norman": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "female"
+            },
+            "Chad Beguelin": {
+                "name_of_work": "The Wedding Singer",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tim Herlihy": {
+                "name_of_work": "The Wedding Singer",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Lisa Lambert": {
+                "name_of_work": "The Drowsy Chaperone",
+                "winner": true,
+                "gender": "female"
+            },
+            "Greg Morrison": {
+                "name_of_work": "The Drowsy Chaperone",
+                "winner": true,
+                "gender": "male"
+            },
+            "Stephen Bray": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "male"
+            },
+            "Brenda Russell": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "female"
+            },
+            "Allee Willis": {
+                "name_of_work": "The Color Purple",
+                "winner": false,
+                "gender": "female"
+            },
+            "Chad Beguelin": {
+                "name_of_work": "The Wedding Singer",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matthew Sklar": {
+                "name_of_work": "The Wedding Singer",
+                "winner": false,
+                "gender": "female"
+            },
+            "Andrew Lloyd Webber": {
+                "name_of_work": "The Woman in White",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Zippel": {
+                "name_of_work": "The Woman in White",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2005": {
+        "directing": {
+            "Doug Hughes": {
+                "name_of_work": "Doubt",
+                "winner": true,
+                "gender": "male"
+            },
+            "Joe Mantello": {
+                "name_of_work": "Glengarry Glen Ross",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Crowley": {
+                "name_of_work": "The Pillowman",
+                "winner": false,
+                "gender": "male"
+            },
+            "Scott Ellis": {
+                "name_of_work": "Twelve Angry Men",
+                "winner": false,
+                "gender": "female"
+            },
+            "Mike Nichols": {
+                "name_of_work": "Spamalot",
+                "winner": true,
+                "gender": "male"
+            },
+            "Jack O'Brien": {
+                "name_of_work": "Dirty Rotten Scoundrels",
+                "winner": false,
+                "gender": "male"
+            },
+            "James Lapine": {
+                "name_of_work": "The 25th Annual Putnam County Spelling Bee",
+                "winner": false,
+                "gender": "female"
+            },
+            "Bartlett Sher": {
+                "name_of_work": "The Light in the Piazza",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "Rachel Sheinkin": {
+                "name_of_work": "The 25th Annual Putnam County Spelling Bee",
+                "winner": true,
+                "gender": "female"
+            },
+            "Jeffrey Lane": {
+                "name_of_work": "Dirty Rotten Scoundrels",
+                "winner": false,
+                "gender": "male"
+            },
+            "Eric Idle": {
+                "name_of_work": "Spamalot",
+                "winner": false,
+                "gender": "male"
+            },
+            "Craig Lucas": {
+                "name_of_work": "The Light in the Piazza",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Adam Guettel": {
+                "name_of_work": "The Light in the Piazza",
+                "winner": true,
+                "gender": "male"
+            },
+            "David Yazbek": {
+                "name_of_work": "Dirty Rotten Scoundrels",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Du Prez": {
+                "name_of_work": "Spamalot",
+                "winner": false,
+                "gender": "male"
+            },
+            "Eric Idle": {
+                "name_of_work": "Spamalot",
+                "winner": false,
+                "gender": "male"
+            },
+            "William Finn": {
+                "name_of_work": "The 25th Annual Putnam County Spelling Bee",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2004": {
+        "directing": {
+            "Jack O'Brien": {
+                "name_of_work": "Henry IV",
+                "winner": true,
+                "gender": "male"
+            },
+            "Doug Hughes": {
+                "name_of_work": "Frozen",
+                "winner": false,
+                "gender": "male"
+            },
+            "Mois\u00c3\u00a9s Kaufman": {
+                "name_of_work": "I Am My Own Wife",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Leveaux": {
+                "name_of_work": "Jumpers",
+                "winner": false,
+                "gender": "male"
+            },
+            "Joe Mantello": {
+                "name_of_work": "Assassins",
+                "winner": true,
+                "gender": "male"
+            },
+            "Jason Moore": {
+                "name_of_work": "Avenue Q",
+                "winner": false,
+                "gender": "male"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "Caroline, or Change",
+                "winner": false,
+                "gender": "male"
+            },
+            "Kathleen Marshall": {
+                "name_of_work": "Wonderful Town",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "writing": {
+            "Jeff Whitty": {
+                "name_of_work": "Avenue Q",
+                "winner": true,
+                "gender": "female"
+            },
+            "Tony Kushner": {
+                "name_of_work": "Caroline, or Change",
+                "winner": false,
+                "gender": "female"
+            },
+            "Nick Enright": {
+                "name_of_work": "The Boy From Oz",
+                "winner": false,
+                "gender": "female"
+            },
+            "Martin Sherman": {
+                "name_of_work": "The Boy From Oz",
+                "winner": false,
+                "gender": "male"
+            },
+            "Winnie Holzman": {
+                "name_of_work": "Wicked",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "music": {
+            "Robert Lopez": {
+                "name_of_work": "Avenue Q",
+                "winner": true,
+                "gender": "female"
+            },
+            "Jeff Marx": {
+                "name_of_work": "Avenue Q",
+                "winner": true,
+                "gender": "female"
+            },
+            "Tony Kushner": {
+                "name_of_work": "Caroline, or Change",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jeanine Tesori": {
+                "name_of_work": "Caroline, or Change",
+                "winner": false,
+                "gender": "female"
+            },
+            "Boy George": {
+                "name_of_work": "Taboo",
+                "winner": false,
+                "gender": "male"
+            },
+            "Stephen Schwartz": {
+                "name_of_work": "Wicked",
+                "winner": false,
+                "gender": "female"
+            }
+        }
+    },
+    "2003": {
+        "directing": {
+            "Joe Mantello": {
+                "name_of_work": "Take Me Out",
+                "winner": true,
+                "gender": "male"
+            },
+            "Laurence Boswell": {
+                "name_of_work": "A Day in the Death of Joe Egg",
+                "winner": false,
+                "gender": "male"
+            },
+            "Robert Falls": {
+                "name_of_work": "Long Day's Journey Into Night",
+                "winner": false,
+                "gender": "male"
+            },
+            "Deborah Warner": {
+                "name_of_work": "Medea",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jack O'Brien": {
+                "name_of_work": "Hairspray",
+                "winner": true,
+                "gender": "male"
+            },
+            "Baz Luhrmann": {
+                "name_of_work": "La Boh\u00c3\u00a8me",
+                "winner": false,
+                "gender": "female"
+            },
+            "Twyla Tharp": {
+                "name_of_work": "Movin' Out",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Leveaux": {
+                "name_of_work": "Nine",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "Thomas Meehan": {
+                "name_of_work": "Hairspray",
+                "winner": true,
+                "gender": "male"
+            },
+            "Mark O'Donnell": {
+                "name_of_work": "Hairspray",
+                "winner": true,
+                "gender": "male"
+            },
+            "Willie Reale": {
+                "name_of_work": "A Year With Frog and Toad",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jeremy Sams": {
+                "name_of_work": "Amour",
+                "winner": false,
+                "gender": "male"
+            },
+            "Didier van Cauwelaert": {
+                "name_of_work": "Amour",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Henry Hwang": {
+                "name_of_work": "Flower Drum Song",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Marc Shaiman": {
+                "name_of_work": "Hairspray",
+                "winner": true,
+                "gender": "female"
+            },
+            "Scott Wittman": {
+                "name_of_work": "Hairspray",
+                "winner": true,
+                "gender": "female"
+            },
+            "Robert Reale": {
+                "name_of_work": "A Year With Frog and Toad",
+                "winner": false,
+                "gender": "male"
+            },
+            "Willie Reale": {
+                "name_of_work": "A Year With Frog and Toad",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michel Legrand": {
+                "name_of_work": "Amour",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jeremy Sams": {
+                "name_of_work": "Amour",
+                "winner": false,
+                "gender": "male"
+            },
+            "Didier van Cauwelaert": {
+                "name_of_work": "Amour",
+                "winner": false,
+                "gender": "male"
+            },
+            "Danny Arena": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Clint Black": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jeff Blumenkrantz": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jason Robert Brown": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Roger Brown": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Carl L. Byrd": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Pevin Byrd-Munoz": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jerry Chesnut": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tommy Conners": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Tom Crain": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Charles Daniels": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Taz DiGregorio": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ronnie Dunn": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Fred Edwards": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Skip Ewing": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Charlie Hayward": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Wayland D. Holyfield": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bob Lee House": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Marcus Hummon": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Sara Light": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "female"
+            },
+            "Lauren Lucas": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "female"
+            },
+            "Martie Maguire": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "female"
+            },
+            "Wanda Mallette": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jim Marshall": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bob Morrison": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "James Hayden Nicholas": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Luke Reed": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Patti Ryan": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "female"
+            },
+            "Jerry Silverstein": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            },
+            "Bob Stillman": {
+                "name_of_work": "Urban Cowboy",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2002": {
+        "directing": {
+            "Mary Zimmerman": {
+                "name_of_work": "Metamorphoses",
+                "winner": true,
+                "gender": "female"
+            },
+            "Daniel Sullivan": {
+                "name_of_work": "Morning's at Seven",
+                "winner": false,
+                "gender": "male"
+            },
+            "Howard Davies": {
+                "name_of_work": "Private Lives",
+                "winner": false,
+                "gender": "male"
+            },
+            "Richard Eyre": {
+                "name_of_work": "The Crucible",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Rando": {
+                "name_of_work": "Urinetown",
+                "winner": true,
+                "gender": "male"
+            },
+            "James Lapine": {
+                "name_of_work": "Into the Woods",
+                "winner": false,
+                "gender": "female"
+            },
+            "Trevor Nunn": {
+                "name_of_work": "Oklahoma!",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael Mayer": {
+                "name_of_work": "Thoroughly Modern Millie",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "Greg Kotis": {
+                "name_of_work": "Urinetown",
+                "winner": true,
+                "gender": "male"
+            },
+            "Catherine Johnson": {
+                "name_of_work": "Mamma Mia!",
+                "winner": false,
+                "gender": "female"
+            },
+            "John Guare": {
+                "name_of_work": "Sweet Smell of Success",
+                "winner": false,
+                "gender": "female"
+            },
+            "Richard Morris": {
+                "name_of_work": "Thoroughly Modern Millie",
+                "winner": false,
+                "gender": "male"
+            },
+            "Dick Scanlan": {
+                "name_of_work": "Thoroughly Modern Millie",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2001": {
+        "directing": {
+            "Daniel Sullivan": {
+                "name_of_work": "Proof",
+                "winner": true,
+                "gender": "male"
+            },
+            "Marion McClinton": {
+                "name_of_work": "King Hedley II",
+                "winner": false,
+                "gender": "male"
+            },
+            "Ian McElhinney": {
+                "name_of_work": "Stones in His Pockets",
+                "winner": false,
+                "gender": "male"
+            },
+            "Jack O'Brien": {
+                "name_of_work": "The Full Monty",
+                "winner": false,
+                "gender": "male"
+            },
+            "Susan Stroman": {
+                "name_of_work": "The Producers",
+                "winner": true,
+                "gender": "female"
+            },
+            "Mark Bramble": {
+                "name_of_work": "42nd Street",
+                "winner": false,
+                "gender": "male"
+            },
+            "Christopher Ashley": {
+                "name_of_work": "The Rocky Horror Show",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "writing": {
+            "Mel Brooks": {
+                "name_of_work": "The Producers",
+                "winner": true,
+                "gender": "female"
+            },
+            "Thomas Meehan": {
+                "name_of_work": "The Producers",
+                "winner": true,
+                "gender": "male"
+            },
+            "Linda Kline": {
+                "name_of_work": "A Class Act",
+                "winner": false,
+                "gender": "female"
+            },
+            "Lonny Price": {
+                "name_of_work": "A Class Act",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Caird": {
+                "name_of_work": "Jane Eyre",
+                "winner": false,
+                "gender": "male"
+            },
+            "Terrence McNally": {
+                "name_of_work": "The Full Monty",
+                "winner": false,
+                "gender": "male"
+            }
+        },
+        "music": {
+            "Mel Brooks": {
+                "name_of_work": "The Producers",
+                "winner": true,
+                "gender": "female"
+            },
+            "Edward Kleban": {
+                "name_of_work": "A Class Act",
+                "winner": false,
+                "gender": "male"
+            },
+            "John Caird": {
+                "name_of_work": "Jane Eyre",
+                "winner": false,
+                "gender": "male"
+            },
+            "Paul Gordon": {
+                "name_of_work": "Jane Eyre",
+                "winner": false,
+                "gender": "male"
+            },
+            "David Yazbek": {
+                "name_of_work": "The Full Monty",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    },
+    "2000": {
+        "directing": {
+            "Michael Blakemore": {
+                "name_of_work": "Kiss Me, Kate",
+                "winner": true,
+                "gender": "male"
+            },
+            "James Lapine": {
+                "name_of_work": "Dirty Blonde",
+                "winner": false,
+                "gender": "female"
+            },
+            "David Leveaux": {
+                "name_of_work": "The Real Thing",
+                "winner": false,
+                "gender": "male"
+            },
+            "Matthew Warchus": {
+                "name_of_work": "True West",
+                "winner": false,
+                "gender": "male"
+            },
+            "Susan Stroman": {
+                "name_of_work": "The Music Man",
+                "winner": false,
+                "gender": "female"
+            },
+            "Lynne Taylor-Corbett": {
+                "name_of_work": "Swing!",
+                "winner": false,
+                "gender": "female"
+            }
+        },
+        "writing": {
+            "Richard Nelson": {
+                "name_of_work": "James Joyce's The Dead",
+                "winner": true,
+                "gender": "male"
+            },
+            "John Weidman": {
+                "name_of_work": "Contact",
+                "winner": false,
+                "gender": "male"
+            },
+            "Michael John LaChiusa": {
+                "name_of_work": "The Wild Party",
+                "winner": false,
+                "gender": "male"
+            },
+            "George C. Wolfe": {
+                "name_of_work": "The Wild Party",
+                "winner": false,
+                "gender": "male"
+            }
+        }
+    }
+}

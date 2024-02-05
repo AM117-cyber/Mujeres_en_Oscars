@@ -1,0 +1,3562 @@
+{
+    "2023": {
+        "writing": {
+            "bill hader": {
+                "name_of_work": "barry",
+                "winner": false
+            },
+            "christopher storer": {
+                "name_of_work": "the bear",
+                "winner": false
+            },
+            "mekki leeper": {
+                "name_of_work": "jury duty",
+                "winner": false
+            },
+            "john hoffman": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "matteo borghese": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "rob turbovsky": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "chris kelly": {
+                "name_of_work": "the other two",
+                "winner": false
+            },
+            "sarah schneider": {
+                "name_of_work": "the other two",
+                "winner": false
+            },
+            "brendan hunt": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "joe kelly": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "jason sudeikis": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "beau willimon": {
+                "name_of_work": "andor",
+                "winner": false
+            },
+            "sharon horgan": {
+                "name_of_work": "bad sisters",
+                "winner": false
+            },
+            "dave finkel": {
+                "name_of_work": "bad sisters",
+                "winner": false
+            },
+            "brett baer": {
+                "name_of_work": "bad sisters",
+                "winner": false
+            },
+            "gordon smith": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "peter gould": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "craig mazin": {
+                "name_of_work": "the last of us",
+                "winner": false
+            },
+            "jesse armstrong": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "mike white": {
+                "name_of_work": "the white lotus",
+                "winner": false
+            },
+            "daniel o'brien": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "owen parsons": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "charlie redd": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "joanna rothkopf": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "seena vali": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "johnathan appel": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "ali barthwell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "tim carvell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "liz hynes": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "ryan ken": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "mark kramer": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "sofia manfredi": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "john oliver": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "taylor kay phillips": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "chrissy shackelford": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "alex baze": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "seth reiss": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "mike scollins": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "sal gentile": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jermaine affonso": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "karen chee": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "bryan donaldson": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "matt goldich": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "dina gusovsky": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jenny hagel": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "allison hord": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "mike karnell": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "john lutz": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "seth meyers": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "ian morgan": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "amber ruffin": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "mike shoemaker": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "ben warheit": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jeff wright": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "ariel dumas": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "jay katsir": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "delmonte bent": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "michael brumm": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "aaron cohen": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "stephen t. colbert": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "paul dinello": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "glenn eichler": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "gabe gronli": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "barry julien": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "michael cruz kayne": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "eliana kwartler": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "matt lappin": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "caroline lazar": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "pratima mani": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "felipe torres medina": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "opus moreschi": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "carley moseley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "asher perlman": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "tom purcell": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "kate sidley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "brian stack": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "john thibodeaux": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "steve waltien": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "alison gates": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "streeter seidell": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "kent sublette": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "gary richardson": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "will stephen": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "celeste yim": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "bryan tucker": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "rosebud baker": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dan bulla": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "michael che": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "mike dicenzo": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "alex english": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "jimmy fowlie": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "martin herlihy": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "john higgins": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "steve higgins": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "vannessa jackson": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "colin jost": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "erik kenward": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "ben marshall": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "lorne michaels": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "jake nordwind": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "ceara o'sullivan": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "clare o'kane": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "ben silva": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "asha ward": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "auguste white": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "pete schultz": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "megan callahan-shah": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dennis mcnicholas": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "josh patten": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "kc shornima": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dan amira": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "lauren sarver means": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "daniel radosh": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "david angelo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "devin delliquanti": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "zach dilanzo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "jennifer flanz": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "jason gilbert": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "josh johnson": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "david kibuuka": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "matt koff": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "trevor noah": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "joseph opio": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "randall otis": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "zhubin parang": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "kat radley": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "scott sherman": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "ashton womack": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "lee sung jin": {
+                "name_of_work": "beef",
+                "winner": false
+            },
+            "joel kim booster": {
+                "name_of_work": "fire island",
+                "winner": false
+            },
+            "taffy brodesser-akner": {
+                "name_of_work": "fleishman is in trouble",
+                "winner": false
+            },
+            "patrick aison": {
+                "name_of_work": "prey",
+                "winner": false
+            },
+            "dan trachtenberg": {
+                "name_of_work": "prey",
+                "winner": false
+            },
+            "janine nabers": {
+                "name_of_work": "swarm",
+                "winner": false
+            },
+            "donald glover": {
+                "name_of_work": "swarm",
+                "winner": false
+            },
+            "al yankovic": {
+                "name_of_work": "weird: the al yankovic story",
+                "winner": false
+            },
+            "eric appel": {
+                "name_of_work": "weird: the al yankovic story",
+                "winner": false
+            },
+            "jon macks": {
+                "name_of_work": "carol burnett: 90 years of laughter + love",
+                "winner": false
+            },
+            "carol leifer": {
+                "name_of_work": "carol burnett: 90 years of laughter + love",
+                "winner": false
+            },
+            "chris rock": {
+                "name_of_work": "chris rock: selective outrage",
+                "winner": false
+            },
+            "wanda sykes": {
+                "name_of_work": "wanda sykes: i\u00e2\u20ac\u2122m an entertainer",
+                "winner": false
+            },
+            "kate berlant": {
+                "name_of_work": "would it kill you to laugh? starring kate berlant & john early",
+                "winner": false
+            },
+            "andrew deyoung": {
+                "name_of_work": "would it kill you to laugh? starring kate berlant & john early",
+                "winner": false
+            },
+            "john early": {
+                "name_of_work": "would it kill you to laugh? starring kate berlant & john early",
+                "winner": false
+            },
+            "john mulaney": {
+                "name_of_work": "john mulaney: baby j",
+                "winner": true
+            }
+        },
+        "music": {
+            "adam blackstone": {
+                "name_of_work": "2022 rock and roll hall of fame induction ceremony",
+                "winner": false
+            },
+            "omar edwards": {
+                "name_of_work": "the apple music super bowl lvii halftime show starring rihanna",
+                "winner": false
+            },
+            "rickey minor": {
+                "name_of_work": "the oscars",
+                "winner": false
+            },
+            "lenny pickett": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "leon pendarvis": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "eli brueggemann": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "greg phillinganes": {
+                "name_of_work": "library of congress gershwin prize for popular song: joni mitchell",
+                "winner": true
+            },
+            "lili haydn": {
+                "name_of_work": "ginny & georgia",
+                "winner": false
+            },
+            "ben bromfield": {
+                "name_of_work": "ginny & georgia",
+                "winner": false
+            },
+            "heather mcintosh": {
+                "name_of_work": "the l word: generation q",
+                "winner": false
+            },
+            "taura stinson": {
+                "name_of_work": "the l word: generation q",
+                "winner": false
+            },
+            "allyson newman": {
+                "name_of_work": "the l word: generation q",
+                "winner": false
+            },
+            "curtis moore": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "thomas mizer": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "tom howe": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "jamie hartman": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "sam ryder": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "al yankovic": {
+                "name_of_work": "weird: the al yankovic story",
+                "winner": false
+            },
+            "ed sheeran": {
+                "name_of_work": "ted lasso",
+                "winner": true
+            },
+            "foy vance": {
+                "name_of_work": "ted lasso",
+                "winner": true
+            },
+            "max martin": {
+                "name_of_work": "ted lasso",
+                "winner": true
+            },
+            "nicholas britell": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "holly amber church": {
+                "name_of_work": "guillermo del toro's cabinet of curiosities",
+                "winner": false
+            },
+            "howard shore": {
+                "name_of_work": "the lord of the rings: the rings of power",
+                "winner": false
+            },
+            "laura karpman": {
+                "name_of_work": "ms. marvel",
+                "winner": false
+            },
+            "danny elfman": {
+                "name_of_work": "wednesday",
+                "winner": false
+            },
+            "gustavo santaolalla": {
+                "name_of_work": "the last of us",
+                "winner": false
+            },
+            "chris bacon": {
+                "name_of_work": "wednesday",
+                "winner": false
+            },
+            "john debney": {
+                "name_of_work": "hocus pocus 2",
+                "winner": false
+            },
+            "sarah schachner": {
+                "name_of_work": "prey",
+                "winner": false
+            },
+            "ariel marx": {
+                "name_of_work": "a small light",
+                "winner": false
+            },
+            "frankie pine": {
+                "name_of_work": "daisy jones & the six",
+                "winner": false
+            },
+            "robin urdang": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "nora felder": {
+                "name_of_work": "stranger things",
+                "winner": false
+            },
+            "tony von pervieux": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "christa miller": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "tony morales": {
+                "name_of_work": "eva longoria: searching for mexico",
+                "winner": false
+            },
+            "james newton howard": {
+                "name_of_work": "light & magic",
+                "winner": false
+            },
+            "blake neely": {
+                "name_of_work": "pamela, a love story",
+                "winner": false
+            },
+            "hans zimmer": {
+                "name_of_work": "prehistoric planet",
+                "winner": false
+            },
+            "an\u00e5\u00bee rozman": {
+                "name_of_work": "prehistoric planet",
+                "winner": false
+            },
+            "kara talve": {
+                "name_of_work": "prehistoric planet",
+                "winner": false
+            },
+            "leo birenberg": {
+                "name_of_work": "weird: the al yankovic story",
+                "winner": true
+            },
+            "zach robinson": {
+                "name_of_work": "weird: the al yankovic story",
+                "winner": true
+            },
+            "gabe hilfer": {
+                "name_of_work": "the white lotus",
+                "winner": true
+            },
+            "cristobal tapia de veer": {
+                "name_of_work": "the white lotus",
+                "winner": true
+            },
+            "john powell": {
+                "name_of_work": "still: a michael j. fox movie",
+                "winner": true
+            }
+        },
+        "directing": {
+            "benjamin caron": {
+                "name_of_work": "andor",
+                "winner": false
+            },
+            "dearbhla walsh": {
+                "name_of_work": "bad sisters",
+                "winner": false
+            },
+            "peter hoar": {
+                "name_of_work": "the last of us",
+                "winner": false
+            },
+            "andrij parekh": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "mark mylod": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "lorene scafaria": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "mike white": {
+                "name_of_work": "the white lotus",
+                "winner": false
+            },
+            "bill hader": {
+                "name_of_work": "barry",
+                "winner": false
+            },
+            "christopher storer": {
+                "name_of_work": "the bear",
+                "winner": false
+            },
+            "amy sherman-palladino": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "mary lou belli": {
+                "name_of_work": "the ms. pat show",
+                "winner": false
+            },
+            "declan lowney": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "tim burton": {
+                "name_of_work": "wednesday",
+                "winner": false
+            },
+            "andy fisher": {
+                "name_of_work": "jimmy kimmel live!",
+                "winner": false
+            },
+            "paul pennolino": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "jim hoskinson": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "andr\u00e3\u00a9 allen": {
+                "name_of_work": "the problem with jon stewart",
+                "winner": false
+            },
+            "liz patrick": {
+                "name_of_work": "saturday night live",
+                "winner": true
+            },
+            "paul miller": {
+                "name_of_work": "carol burnett: 90 years of laughter + love",
+                "winner": false
+            },
+            "joel gallen": {
+                "name_of_work": "chris rock: selective outrage",
+                "winner": false
+            },
+            "glenn weiss": {
+                "name_of_work": "the oscars",
+                "winner": false
+            },
+            "linda mendoza": {
+                "name_of_work": "wanda sykes: i\u00e2\u20ac\u2122m an entertainer",
+                "winner": false
+            },
+            "hamish hamilton": {
+                "name_of_work": "the apple music super bowl lvii halftime show starring rihanna",
+                "winner": true
+            },
+            "shawn carter": {
+                "name_of_work": "the apple music super bowl lvii halftime show starring rihanna",
+                "winner": true
+            },
+            "bertram van munster": {
+                "name_of_work": "the amazing race",
+                "winner": false
+            },
+            "ali moghadas": {
+                "name_of_work": "queer eye",
+                "winner": false
+            },
+            "nick murray": {
+                "name_of_work": "rupaul's drag race",
+                "winner": false
+            },
+            "ariel boles": {
+                "name_of_work": "top chef",
+                "winner": false
+            },
+            "bryan rowland": {
+                "name_of_work": "welcome to wrexham",
+                "winner": true
+            },
+            "jake schreier": {
+                "name_of_work": "beef",
+                "winner": false
+            },
+            "carl franklin": {
+                "name_of_work": "dahmer - monster: the jeffrey dahmer story",
+                "winner": false
+            },
+            "paris barclay": {
+                "name_of_work": "dahmer - monster: the jeffrey dahmer story",
+                "winner": false
+            },
+            "valerie faris": {
+                "name_of_work": "fleishman is in trouble",
+                "winner": false
+            },
+            "jonathan dayton": {
+                "name_of_work": "fleishman is in trouble",
+                "winner": false
+            },
+            "dan trachtenberg": {
+                "name_of_work": "prey",
+                "winner": false
+            },
+            "davina pardo": {
+                "name_of_work": "judy blume forever",
+                "winner": false
+            },
+            "leah wolchok": {
+                "name_of_work": "judy blume forever",
+                "winner": false
+            },
+            "lana wilson": {
+                "name_of_work": "pretty baby: brooke shields",
+                "winner": false
+            },
+            "alex pritz": {
+                "name_of_work": "the territory",
+                "winner": false
+            },
+            "ken burns": {
+                "name_of_work": "the u.s. and the holocaust",
+                "winner": false
+            },
+            "lynn novick": {
+                "name_of_work": "the u.s. and the holocaust",
+                "winner": false
+            },
+            "sarah botstein": {
+                "name_of_work": "the u.s. and the holocaust",
+                "winner": false
+            },
+            "brett morgen": {
+                "name_of_work": "moonage daydream",
+                "winner": false
+            },
+            "davis guggenheim": {
+                "name_of_work": "still: a michael j. fox movie",
+                "winner": true
+            },
+            "lee sung jin": {
+                "name_of_work": "beef",
+                "winner": true
+            }
+        }
+    },
+    "2022": {
+        "writing": {
+            "quinta brunson": {
+                "name_of_work": "abbott elementary",
+                "winner": true
+            },
+            "duffy boudreau": {
+                "name_of_work": "barry",
+                "winner": false
+            },
+            "alec berg": {
+                "name_of_work": "barry",
+                "winner": false
+            },
+            "bill hader": {
+                "name_of_work": "barry",
+                "winner": false
+            },
+            "lucia aniello": {
+                "name_of_work": "hacks",
+                "winner": false
+            },
+            "paul w. downs": {
+                "name_of_work": "hacks",
+                "winner": false
+            },
+            "jen statsky": {
+                "name_of_work": "hacks",
+                "winner": false
+            },
+            "steve martin": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "john hoffman": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "jane becker": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "sarah naftalis": {
+                "name_of_work": "what we do in the shadows",
+                "winner": false
+            },
+            "stefani robinson": {
+                "name_of_work": "what we do in the shadows",
+                "winner": false
+            },
+            "thomas schnauz": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "chris mundy": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "dan erickson": {
+                "name_of_work": "severance",
+                "winner": false
+            },
+            "hwang dong-hyuk": {
+                "name_of_work": "squid game",
+                "winner": false
+            },
+            "jesse armstrong": {
+                "name_of_work": "succession",
+                "winner": true
+            },
+            "jonathan lisco": {
+                "name_of_work": "yellowjackets",
+                "winner": false
+            },
+            "ashley lyle": {
+                "name_of_work": "yellowjackets",
+                "winner": false
+            },
+            "bart nickerson": {
+                "name_of_work": "yellowjackets",
+                "winner": false
+            },
+            "tracey ashley": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "robin thede": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "alrinthea carter": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "michelle davis": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "sonia denis": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "jonterri gadson": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "chlo\u00e3\u00a9 hilliard": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "shenovia large": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "natalie mcgill": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "dan amira": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "lauren sarver means": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "daniel radosh": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "david angelo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "devin delliquanti": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the globe - hungary for democracy",
+                "winner": false
+            },
+            "zach dilanzo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "jennifer flanz": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the globe - hungary for democracy",
+                "winner": false
+            },
+            "jason gilbert": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "josh johnson": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "david kibuuka": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "matt koff": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "christiana mbakwe": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "trevor noah": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "joseph opio": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "randall otis": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "zhubin parang": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the globe - hungary for democracy",
+                "winner": false
+            },
+            "kat radley": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "scott sherman": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the globe - hungary for democracy",
+                "winner": false
+            },
+            "ashton womack": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "daniel o'brien": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "owen parsons": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "charlie redd": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "joanna rothkopf": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "seena vali": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "johnathan appel": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ali barthwell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "tim carvell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "liz hynes": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "greg iwinski": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ryan ken": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "mark kramer": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "sof\u00e3\u00ada manfredi": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "john oliver": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "taylor kay phillips": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "chrissy shackelford": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ariel dumas": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "jay katsir": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "delmonte bent": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "michael brumm": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "aaron cohen": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "stephen t. colbert": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "paul dinello": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "glenn eichler": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "gabe gronli": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "barry julien": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "michael cruz kayne": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "eliana kwartler": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "matt lappin": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "caroline lazar": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "pratima mani": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "felipe torres medina": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "opus moreschi": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "carley moseley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "asher perlman": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "tom purcell": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "kate sidley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "brian stack": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "john thibodeaux": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "steve waltien": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "michael che": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "alison gates": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "streeter seidell": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "colin jost": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "kent sublette": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "bryan tucker": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dan bulla": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "mike dicenzo": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "billy domineau": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "alex english": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "martin herlihy": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "steve higgins": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "john higgins": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "vannessa jackson": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "erik kenward": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "tesha kondrat": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "ben marshall": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "lorne michaels": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "jake nordwind": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "ben silva": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "will stephen": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "celeste yim": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "anna drezen": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "steven castillo": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "rob klein": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "jasmine pierce": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "rosebud baker": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "clare o'kane": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "pete schultz": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "megan callahan-shah": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dennis mcnicholas": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "josh patten": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "mark steinbach": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "danny strong": {
+                "name_of_work": "dopesick",
+                "winner": false
+            },
+            "elizabeth meriwether": {
+                "name_of_work": "the dropout",
+                "winner": false
+            },
+            "sarah burgess": {
+                "name_of_work": "impeachment: american crime story",
+                "winner": false
+            },
+            "molly smith metzler": {
+                "name_of_work": "maid",
+                "winner": false
+            },
+            "patrick somerville": {
+                "name_of_work": "station eleven",
+                "winner": false
+            },
+            "mike white": {
+                "name_of_work": "the white lotus",
+                "winner": true
+            },
+            "ali wong": {
+                "name_of_work": "ali wong: don wong",
+                "winner": false
+            },
+            "ian berger": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the globe - hungary for democracy",
+                "winner": false
+            },
+            "jordan klepper": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the globe - hungary for democracy",
+                "winner": false
+            },
+            "jerrod carmichael": {
+                "name_of_work": "jerrod carmichael: rothaniel",
+                "winner": true
+            },
+            "nicole byer": {
+                "name_of_work": "nicole byer: bbw (big beautiful weirdo)",
+                "winner": false
+            },
+            "norm macdonald": {
+                "name_of_work": "norm macdonald: nothing special",
+                "winner": false
+            }
+        },
+        "music": {
+            "rickey minor": {
+                "name_of_work": "43rd annual kennedy center honors",
+                "winner": false
+            },
+            "michael bearden": {
+                "name_of_work": "one last time: an evening with tony bennett & lady gaga",
+                "winner": false
+            },
+            "lee musiker": {
+                "name_of_work": "one last time: an evening with tony bennett & lady gaga",
+                "winner": false
+            },
+            "adam blackstone": {
+                "name_of_work": "the pepsi super bowl lvi halftime show starring dr. dre, snoop dogg, mary j. blige, eminem, kendrick lamar, 50 cent",
+                "winner": true
+            },
+            "lenny pickett": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "leon pendarvis": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "eli brueggemann": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "labrinth": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "muzhda zemar-mckenzie": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "zendaya": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "sam levinson": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "thomas mizer": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "curtis moore": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "cinco paul": {
+                "name_of_work": "schmigadoon!",
+                "winner": true
+            },
+            "siddhartha khosla": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "taylor goldsmith": {
+                "name_of_work": "this is us",
+                "winner": false
+            },
+            "natalie holt": {
+                "name_of_work": "loki",
+                "winner": false
+            },
+            "theodore shapiro": {
+                "name_of_work": "severance",
+                "winner": true
+            },
+            "jung jae-il": {
+                "name_of_work": "squid game",
+                "winner": false
+            },
+            "cristobal tapia de veer": {
+                "name_of_work": "the white lotus",
+                "winner": true
+            },
+            "blake neely": {
+                "name_of_work": "the flight attendant",
+                "winner": false
+            },
+            "christopher willis": {
+                "name_of_work": "schmigadoon!",
+                "winner": false
+            },
+            "nicholas britell": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "brian tyler": {
+                "name_of_work": "1883",
+                "winner": false
+            },
+            "breton vivian": {
+                "name_of_work": "1883",
+                "winner": false
+            },
+            "hesham nazih": {
+                "name_of_work": "moon knight",
+                "winner": false
+            },
+            "dan romer": {
+                "name_of_work": "station eleven",
+                "winner": false
+            },
+            "nathan barr": {
+                "name_of_work": "a very british scandal",
+                "winner": false
+            },
+            "thomas golubi\u00e4\u2021": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "jen malone": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "adam leber": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "robin urdang": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "gabe hilfer": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "nora felder": {
+                "name_of_work": "stranger things",
+                "winner": true
+            },
+            "janet lopez": {
+                "name_of_work": "the white lotus",
+                "winner": false
+            },
+            "nainita desai": {
+                "name_of_work": "14 peaks: nothing is impossible",
+                "winner": false
+            },
+            "david schwartz": {
+                "name_of_work": "lucy and desi",
+                "winner": true
+            },
+            "mychael danna": {
+                "name_of_work": "return to space",
+                "winner": false
+            },
+            "harry gregson-williams": {
+                "name_of_work": "return to space",
+                "winner": false
+            },
+            "terence blanchard": {
+                "name_of_work": "they call me magic",
+                "winner": false
+            },
+            "jessica jones": {
+                "name_of_work": "the tinder swindler",
+                "winner": false
+            }
+        },
+        "directing": {
+            "jason bateman": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "ben stiller": {
+                "name_of_work": "severance",
+                "winner": false
+            },
+            "hwang dong-hyuk": {
+                "name_of_work": "squid game",
+                "winner": true
+            },
+            "mark mylod": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "cathy yan": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "lorene scafaria": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "karyn kusama": {
+                "name_of_work": "yellowjackets",
+                "winner": false
+            },
+            "hiro murai": {
+                "name_of_work": "station eleven",
+                "winner": false
+            },
+            "bill hader": {
+                "name_of_work": "barry",
+                "winner": false
+            },
+            "lucia aniello": {
+                "name_of_work": "hacks",
+                "winner": false
+            },
+            "mary lou belli": {
+                "name_of_work": "the ms. pat show",
+                "winner": false
+            },
+            "cherien dabis": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "jamie babbit": {
+                "name_of_work": "only murders in the building",
+                "winner": false
+            },
+            "mj delaney": {
+                "name_of_work": "ted lasso",
+                "winner": true
+            },
+            "bridget stokes": {
+                "name_of_work": "a black lady sketch show",
+                "winner": true
+            },
+            "paul pennolino": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "christopher werner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "alexander j. vietmeier": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jim hoskinson": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "don roy king": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "liz patrick": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "paul dugdale": {
+                "name_of_work": "adele: one night only",
+                "winner": true
+            },
+            "stan lathan": {
+                "name_of_work": "dave chappelle: the closer",
+                "winner": false
+            },
+            "bo burnham": {
+                "name_of_work": "jerrod carmichael: rothaniel",
+                "winner": false
+            },
+            "norm macdonald": {
+                "name_of_work": "norm macdonald: nothing special",
+                "winner": false
+            },
+            "jeff tomsic": {
+                "name_of_work": "norm macdonald: nothing special",
+                "winner": false
+            },
+            "hamish hamilton": {
+                "name_of_work": "the pepsi super bowl lvi halftime show starring dr. dre, snoop dogg, mary j. blige, eminem, kendrick lamar, 50 cent",
+                "winner": false
+            },
+            "greg whiteley": {
+                "name_of_work": "cheer",
+                "winner": false
+            },
+            "nneka onuorah": {
+                "name_of_work": "lizzo's watch out for the big grrrls",
+                "winner": true
+            },
+            "aaron krummel": {
+                "name_of_work": "queer eye",
+                "winner": false
+            },
+            "nick murray": {
+                "name_of_work": "rupaul's drag race",
+                "winner": false
+            },
+            "ari boles": {
+                "name_of_work": "top chef",
+                "winner": false
+            },
+            "danny strong": {
+                "name_of_work": "dopesick",
+                "winner": false
+            },
+            "michael showalter": {
+                "name_of_work": "the dropout",
+                "winner": false
+            },
+            "francesca gregorini": {
+                "name_of_work": "the dropout",
+                "winner": false
+            },
+            "john wells": {
+                "name_of_work": "maid",
+                "winner": false
+            },
+            "mike white": {
+                "name_of_work": "the white lotus",
+                "winner": true
+            },
+            "andrew rossi": {
+                "name_of_work": "the andy warhol diaries",
+                "winner": false
+            },
+            "peter jackson": {
+                "name_of_work": "the beatles: get back",
+                "winner": true
+            },
+            "judd apatow": {
+                "name_of_work": "george carlin's american dream",
+                "winner": false
+            },
+            "michael bonfiglio": {
+                "name_of_work": "george carlin's american dream",
+                "winner": false
+            },
+            "amy poehler": {
+                "name_of_work": "lucy and desi",
+                "winner": false
+            },
+            "ian denyer": {
+                "name_of_work": "stanley tucci: searching for italy",
+                "winner": false
+            },
+            "w. kamau bell": {
+                "name_of_work": "we need to talk about cosby",
+                "winner": false
+            }
+        }
+    },
+    "2021": {
+        "writing": {
+            "steve yockey": {
+                "name_of_work": "the flight attendant",
+                "winner": false
+            },
+            "meredith scardino": {
+                "name_of_work": "girls5eva",
+                "winner": false
+            },
+            "lucia aniello": {
+                "name_of_work": "hacks",
+                "winner": true
+            },
+            "paul w. downs": {
+                "name_of_work": "hacks",
+                "winner": true
+            },
+            "jen statsky": {
+                "name_of_work": "hacks",
+                "winner": true
+            },
+            "maya erskine": {
+                "name_of_work": "pen15",
+                "winner": false
+            },
+            "jason sudeikis": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "brendan hunt": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "joe kelly": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "bill lawrence": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "rebecca sonnenshine": {
+                "name_of_work": "the boys",
+                "winner": false
+            },
+            "peter morgan": {
+                "name_of_work": "the crown",
+                "winner": true
+            },
+            "yahlin chang": {
+                "name_of_work": "the handmaid's tale",
+                "winner": false
+            },
+            "misha green": {
+                "name_of_work": "lovecraft country",
+                "winner": false
+            },
+            "dave filoni": {
+                "name_of_work": "the mandalorian",
+                "winner": false
+            },
+            "jon favreau": {
+                "name_of_work": "the mandalorian",
+                "winner": false
+            },
+            "ryan murphy": {
+                "name_of_work": "pose",
+                "winner": false
+            },
+            "brad falchuk": {
+                "name_of_work": "pose",
+                "winner": false
+            },
+            "steven canals": {
+                "name_of_work": "pose",
+                "winner": false
+            },
+            "janet mock": {
+                "name_of_work": "pose",
+                "winner": false
+            },
+            "our lady j": {
+                "name_of_work": "pose",
+                "winner": false
+            },
+            "jenny hagel": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "demi adejuyigbe": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "ashley nicole black": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "michael harriot": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "shantira jackson": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "ian morgan": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "dewayne perkins": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "amber ruffin": {
+                "name_of_work": "the amber ruffin show",
+                "winner": false
+            },
+            "lauren ashley smith": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "robin thede": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "akilah green": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "shenovia large": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "rae sanni": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "kristin layne tucker": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "holly walker": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "kindsey young": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "johnathan appel": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ali barthwell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "tim carvell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "liz hynes": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "greg iwinski": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "mark kramer": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "daniel o'brien": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "john oliver": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "owen parsons": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "charlie redd": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "joanna rothkopf": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "chrissy shackelford": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ben silva": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "seena vali": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ariel dumas": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "jay katsir": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "stephen t. colbert": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "delmonte bent": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "michael brumm": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "river clegg": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "aaron cohen": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "nicole conlan": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "paul dinello": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "glenn eichler": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "django gold": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "gabe gronli": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "barry julien": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "michael cruz kayne": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "eliana kwartler": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "matt lappin": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "pratima mani": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "felipe torres medina": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "opus moreschi": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "asher perlman": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "tom purcell": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "kate sidley": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "brian stack": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "john thibodeaux": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "steve waltien": {
+                "name_of_work": "stephen colbert's election night 2020: democracy's last stand building back america great again better 2020",
+                "winner": false
+            },
+            "dan bulla": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "steven castillo": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "megan callahan-shah": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "michael che": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "anna drezen": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "alison gates": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "fran gillespie": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "sudi green": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "steve higgins": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "colin jost": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "erik kenward": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dan licata": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "jasmine pierce": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dennis mcnicholas": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "lorne michaels": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "josh patten": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "gary richardson": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "pete schultz": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "streeter seidell": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "mark steinbach": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "will stephen": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "kent sublette": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "bryan tucker": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "celeste yim": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "dave sirus": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "mike lawrence": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "emma clark": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "sam jay": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "michaela coel": {
+                "name_of_work": "i may destroy you",
+                "winner": true
+            },
+            "brad ingelsby": {
+                "name_of_work": "mare of easttown",
+                "winner": false
+            },
+            "scott frank": {
+                "name_of_work": "the queen's gambit",
+                "winner": false
+            },
+            "chuck hayward": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "peter cameron": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "jac schaeffer": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "laura donney": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "bo burnham": {
+                "name_of_work": "bo burnham: inside",
+                "winner": true
+            },
+            "jordan klepper": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the pulse - into the magaverse",
+                "winner": false
+            },
+            "ian berger": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the pulse - into the magaverse",
+                "winner": false
+            },
+            "devin delliquanti": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the pulse - into the magaverse",
+                "winner": false
+            },
+            "zhubin parang": {
+                "name_of_work": "the daily show with trevor noah presents: jordan klepper fingers the pulse - into the magaverse",
+                "winner": false
+            },
+            "dave chappelle": {
+                "name_of_work": "8:46 - dave chappelle",
+                "winner": false
+            },
+            "mitchell marchand": {
+                "name_of_work": "john lewis: celebrating a hero",
+                "winner": false
+            }
+        },
+        "music": {
+            "aron forbes": {
+                "name_of_work": "billie eilish: the world\u00e2\u20ac\u2122s a little blurry",
+                "winner": false
+            },
+            "bo burnham": {
+                "name_of_work": "bo burnham: inside",
+                "winner": false
+            },
+            "rickey minor": {
+                "name_of_work": "celebrating america - an inauguration night special",
+                "winner": false
+            },
+            "karl mansfield": {
+                "name_of_work": "david byrne's american utopia",
+                "winner": false
+            },
+            "mauro refosco": {
+                "name_of_work": "david byrne's american utopia",
+                "winner": false
+            },
+            "harvey mason jr.": {
+                "name_of_work": "zoey's extraordinary playlist",
+                "winner": false
+            },
+            "christopher lennertz": {
+                "name_of_work": "the boys",
+                "winner": false
+            },
+            "michael saltzman": {
+                "name_of_work": "the boys",
+                "winner": false
+            },
+            "anna hauss": {
+                "name_of_work": "the queen's gambit",
+                "winner": false
+            },
+            "robert wienr\u00e3\u00b6der": {
+                "name_of_work": "the queen's gambit",
+                "winner": false
+            },
+            "william horberg": {
+                "name_of_work": "the queen's gambit",
+                "winner": false
+            },
+            "marc shaiman": {
+                "name_of_work": "soundtrack of our lives",
+                "winner": false
+            },
+            "kristen anderson-lopez": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "robert lopez": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "andrew hey": {
+                "name_of_work": "zoey's extraordinary playlist",
+                "winner": false
+            },
+            "austin winsberg": {
+                "name_of_work": "zoey's extraordinary playlist",
+                "winner": false
+            },
+            "lindsey rosin": {
+                "name_of_work": "zoey's extraordinary playlist",
+                "winner": false
+            },
+            "michael abels": {
+                "name_of_work": "allen v. farrow",
+                "winner": false
+            },
+            "kris bowers": {
+                "name_of_work": "bridgerton",
+                "winner": false
+            },
+            "michael dean parsons": {
+                "name_of_work": "bridgerton",
+                "winner": false
+            },
+            "blake neely": {
+                "name_of_work": "the flight attendant",
+                "winner": true
+            },
+            "marcus mumford": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "tom howe": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "martin phipps": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "adam taylor": {
+                "name_of_work": "the handmaid's tale",
+                "winner": false
+            },
+            "laura karpman": {
+                "name_of_work": "lovecraft country",
+                "winner": false
+            },
+            "raphael saadiq": {
+                "name_of_work": "lovecraft country",
+                "winner": false
+            },
+            "ludwig g\u00e3\u00b6ransson": {
+                "name_of_work": "the mandalorian",
+                "winner": true
+            },
+            "siddhartha khosla": {
+                "name_of_work": "this is us",
+                "winner": false
+            },
+            "jeff russo": {
+                "name_of_work": "oslo",
+                "winner": false
+            },
+            "zo\u00e3\u00ab keating": {
+                "name_of_work": "oslo",
+                "winner": false
+            },
+            "carlos rafael rivera": {
+                "name_of_work": "the queen's gambit",
+                "winner": true
+            },
+            "nicholas britell": {
+                "name_of_work": "the underground railroad",
+                "winner": false
+            },
+            "christophe beck": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "alexandra patsavas": {
+                "name_of_work": "bridgerton",
+                "winner": false
+            },
+            "sarah bridge": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "amanda krieg thomas": {
+                "name_of_work": "halston",
+                "winner": false
+            },
+            "alexis martin woodall": {
+                "name_of_work": "halston",
+                "winner": false
+            },
+            "ryan murphy": {
+                "name_of_work": "halston",
+                "winner": false
+            },
+            "ciara elwis": {
+                "name_of_work": "i may destroy you",
+                "winner": true
+            },
+            "matt biffa": {
+                "name_of_work": "i may destroy you",
+                "winner": true
+            },
+            "liza richardson": {
+                "name_of_work": "lovecraft country",
+                "winner": false
+            },
+            "randall poster": {
+                "name_of_work": "the queen's gambit",
+                "winner": false
+            },
+            "dave jordan": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "shannon murphy": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "kathryn bostic": {
+                "name_of_work": "american masters",
+                "winner": false
+            },
+            "steven price": {
+                "name_of_work": "david attenborough: a life on our planet",
+                "winner": true
+            },
+            "mark crawford": {
+                "name_of_work": "the social dilemma",
+                "winner": false
+            },
+            "branford marsalis": {
+                "name_of_work": "tulsa burning: the 1921 race massacre",
+                "winner": false
+            }
+        },
+        "directing": {
+            "julie anne robinson": {
+                "name_of_work": "bridgerton",
+                "winner": false
+            },
+            "benjamin caron": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "jessica hobbs": {
+                "name_of_work": "the crown",
+                "winner": true
+            },
+            "liz garbus": {
+                "name_of_work": "the handmaid's tale",
+                "winner": false
+            },
+            "jon favreau": {
+                "name_of_work": "the mandalorian",
+                "winner": false
+            },
+            "steven canals": {
+                "name_of_work": "pose",
+                "winner": false
+            },
+            "james burrows": {
+                "name_of_work": "b positive",
+                "winner": false
+            },
+            "susanna fogel": {
+                "name_of_work": "the flight attendant",
+                "winner": false
+            },
+            "lucia aniello": {
+                "name_of_work": "hacks",
+                "winner": true
+            },
+            "james widdoes": {
+                "name_of_work": "mom",
+                "winner": false
+            },
+            "zach braff": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "mj delaney": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "declan lowney": {
+                "name_of_work": "ted lasso",
+                "winner": false
+            },
+            "christopher werner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "alexander j. vietmeier": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jim hoskinson": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "paul g. casey": {
+                "name_of_work": "real time with bill maher",
+                "winner": false
+            },
+            "don roy king": {
+                "name_of_work": "saturday night live",
+                "winner": true
+            },
+            "bo burnham": {
+                "name_of_work": "bo burnham: inside",
+                "winner": true
+            },
+            "spike lee": {
+                "name_of_work": "david byrne's american utopia",
+                "winner": false
+            },
+            "julia reichert": {
+                "name_of_work": "8:46 - dave chappelle",
+                "winner": false
+            },
+            "steven bognar": {
+                "name_of_work": "8:46 - dave chappelle",
+                "winner": false
+            },
+            "dave chappelle": {
+                "name_of_work": "8:46 - dave chappelle",
+                "winner": false
+            },
+            "ben winston": {
+                "name_of_work": "friends: the reunion",
+                "winner": false
+            },
+            "thomas schlamme": {
+                "name_of_work": "a west wing special to benefit when we all vote",
+                "winner": false
+            },
+            "bertram van munster": {
+                "name_of_work": "the amazing race",
+                "winner": false
+            },
+            "mark perez": {
+                "name_of_work": "queer eye",
+                "winner": false
+            },
+            "nick murray": {
+                "name_of_work": "rupaul's drag race",
+                "winner": true
+            },
+            "ari boles": {
+                "name_of_work": "top chef",
+                "winner": false
+            },
+            "alan carter": {
+                "name_of_work": "the voice",
+                "winner": false
+            },
+            "thomas kail": {
+                "name_of_work": "hamilton",
+                "winner": false
+            },
+            "sam miller": {
+                "name_of_work": "i may destroy you",
+                "winner": false
+            },
+            "michaela coel": {
+                "name_of_work": "i may destroy you",
+                "winner": false
+            },
+            "craig zobel": {
+                "name_of_work": "mare of easttown",
+                "winner": false
+            },
+            "scott frank": {
+                "name_of_work": "the queen's gambit",
+                "winner": true
+            },
+            "barry jenkins": {
+                "name_of_work": "the underground railroad",
+                "winner": false
+            },
+            "matt shakman": {
+                "name_of_work": "wandavision",
+                "winner": false
+            },
+            "kirby dick": {
+                "name_of_work": "allen v. farrow",
+                "winner": false
+            },
+            "amy ziering": {
+                "name_of_work": "allen v. farrow",
+                "winner": false
+            },
+            "frank marshall": {
+                "name_of_work": "the bee gees: how can you mend a broken heart",
+                "winner": false
+            },
+            "amanda mcbaine": {
+                "name_of_work": "boys state",
+                "winner": false
+            },
+            "jesse moss": {
+                "name_of_work": "boys state",
+                "winner": false
+            },
+            "kirsten johnson": {
+                "name_of_work": "dick johnson is dead",
+                "winner": true
+            },
+            "jeff orlowski": {
+                "name_of_work": "the social dilemma",
+                "winner": false
+            },
+            "dan lindsay": {
+                "name_of_work": "tina",
+                "winner": false
+            },
+            "tj martin": {
+                "name_of_work": "tina",
+                "winner": false
+            }
+        }
+    },
+    "2020": {
+        "writing": {
+            "michael schur": {
+                "name_of_work": "the good place",
+                "winner": false
+            },
+            "tony mcnamara": {
+                "name_of_work": "the great",
+                "winner": false
+            },
+            "daniel levy": {
+                "name_of_work": "schitt's creek",
+                "winner": true
+            },
+            "david west read": {
+                "name_of_work": "schitt's creek",
+                "winner": false
+            },
+            "sam johnson": {
+                "name_of_work": "what we do in the shadows",
+                "winner": false
+            },
+            "chris marcil": {
+                "name_of_work": "what we do in the shadows",
+                "winner": false
+            },
+            "paul simms": {
+                "name_of_work": "what we do in the shadows",
+                "winner": false
+            },
+            "stefani robinson": {
+                "name_of_work": "what we do in the shadows",
+                "winner": false
+            },
+            "thomas schnauz": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "gordon smith": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "peter morgan": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "chris mundy": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "john shiban": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "miki johnson": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "jesse armstrong": {
+                "name_of_work": "succession",
+                "winner": true
+            },
+            "dan amira": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "lauren sarver means": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "daniel radosh": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "david angelo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "devin delliquanti": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "zach dilanzo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "geoff haggerty": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "josh johnson": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "david kibuuka": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "matt koff": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "x mayo": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "christiana mbakwe": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "dan mccoy": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "trevor noah": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "joseph opio": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "randall otis": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "zhubin parang": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "kat radley": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "scott sherman": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "samantha bee": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "pat cassels": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "kristen bartlett": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "mike drucker": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "melinda taub": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "nicole silverberg": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "joe grossman": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "sean crespo": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "mathan erhardt": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "miles kahn": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "sahar rizvi": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "alison zeidman": {
+                "name_of_work": "full frontal with samantha bee",
+                "winner": false
+            },
+            "dan gurewitch": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "jeff maurer": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "juli weiner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "john oliver": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "tim carvell": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "daniel o'brien": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "owen parsons": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "charlie redd": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "joanna rothkopf": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "ben silva": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "seena vali": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": true
+            },
+            "alex baze": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jermaine affonso": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "karen chee": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "bryan donaldson": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "sal gentile": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "matt goldich": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "dina gusovsky": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "jenny hagel": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "allison hord": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "mike karnell": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "john lutz": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "seth meyers": {
+                "name_of_work": "seth meyers: lobby baby",
+                "winner": false
+            },
+            "ian morgan": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "seth reiss": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "amber ruffin": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "mike scollins": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "mike shoemaker": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "ben warheit": {
+                "name_of_work": "late night with seth meyers",
+                "winner": false
+            },
+            "ariel dumas": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "jay katsir": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "stephen colbert": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "michael brumm": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "river clegg": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "aaron cohen": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "nicole conlan": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "paul dinello": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "glenn eichler": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "django gold": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "gabe gronli": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "barry julien": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "daniel kibblesmith": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "eliana kwartler": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "matt lappin": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "felipe torres medina": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "opus moreschi": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "asher perlman": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "tom purcell": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "kate sidley": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "brian stack": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "john thibodeaux": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "steve waltien": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "tanya barfield": {
+                "name_of_work": "mrs. america",
+                "winner": false
+            },
+            "sally rooney": {
+                "name_of_work": "normal people",
+                "winner": false
+            },
+            "alice birch": {
+                "name_of_work": "normal people",
+                "winner": false
+            },
+            "susannah grant": {
+                "name_of_work": "unbelievable",
+                "winner": false
+            },
+            "michael chabon": {
+                "name_of_work": "unbelievable",
+                "winner": false
+            },
+            "ayelet waldman": {
+                "name_of_work": "unbelievable",
+                "winner": false
+            },
+            "anna winger": {
+                "name_of_work": "unorthodox",
+                "winner": false
+            },
+            "damon lindelof": {
+                "name_of_work": "watchmen",
+                "winner": true
+            },
+            "cord jefferson": {
+                "name_of_work": "watchmen",
+                "winner": true
+            },
+            "dave chappelle": {
+                "name_of_work": "dave chappelle: sticks & stones",
+                "winner": true
+            },
+            "hannah gadsby": {
+                "name_of_work": "hannah gadsby: douglas",
+                "winner": false
+            },
+            "john mulaney": {
+                "name_of_work": "john mulaney & the sack lunch bunch",
+                "winner": false
+            },
+            "marika sawyer": {
+                "name_of_work": "john mulaney & the sack lunch bunch",
+                "winner": false
+            },
+            "patton oswalt": {
+                "name_of_work": "patton oswalt: i love everything",
+                "winner": false
+            }
+        },
+        "music": {
+            "rickey minor": {
+                "name_of_work": "the oscars",
+                "winner": false
+            },
+            "sheila e.": {
+                "name_of_work": "let's go crazy: the grammy salute to prince",
+                "winner": false
+            },
+            "jimmy jam": {
+                "name_of_work": "let's go crazy: the grammy salute to prince",
+                "winner": false
+            },
+            "terry lewis": {
+                "name_of_work": "let's go crazy: the grammy salute to prince",
+                "winner": false
+            },
+            "lenny pickett": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "eli brueggemann": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "leon pendarvis": {
+                "name_of_work": "saturday night live",
+                "winner": false
+            },
+            "adam wayne blackstone": {
+                "name_of_work": "super bowl liv halftime show starring jennifer lopez and shakira",
+                "winner": false
+            },
+            "pharrell williams": {
+                "name_of_work": "the black godfather",
+                "winner": false
+            },
+            "chad hugo": {
+                "name_of_work": "the black godfather",
+                "winner": false
+            },
+            "labrinth": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "david dabbon": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "joanna rothkopf": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "jill twiss": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "seena vali": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "ingrid michaelson": {
+                "name_of_work": "little fires everywhere",
+                "winner": false
+            },
+            "thomas mizer": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "curtis moore": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "siddhartha khosla": {
+                "name_of_work": "this is us",
+                "winner": false
+            },
+            "taylor goldsmith": {
+                "name_of_work": "this is us",
+                "winner": false
+            },
+            "trent reznor": {
+                "name_of_work": "watchmen",
+                "winner": true
+            },
+            "atticus ross": {
+                "name_of_work": "watchmen",
+                "winner": true
+            },
+            "nathan barr": {
+                "name_of_work": "hollywood",
+                "winner": false
+            },
+            "\u00e3\u201clafur arnalds": {
+                "name_of_work": "defending jacob",
+                "winner": false
+            },
+            "antonio gambale": {
+                "name_of_work": "unorthodox",
+                "winner": false
+            },
+            "laura karpman": {
+                "name_of_work": "why we hate",
+                "winner": true
+            },
+            "the rza": {
+                "name_of_work": "wu-tang: an american saga",
+                "winner": false
+            },
+            "martin phipps": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "ludwig g\u00e3\u00b6ransson": {
+                "name_of_work": "the mandalorian",
+                "winner": true
+            },
+            "danny bensi": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "saunder jurriaans": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "nicholas britell": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "mark isham": {
+                "name_of_work": "little fires everywhere",
+                "winner": false
+            },
+            "isabella summers": {
+                "name_of_work": "little fires everywhere",
+                "winner": false
+            },
+            "kris bowers": {
+                "name_of_work": "mrs. america",
+                "winner": false
+            },
+            "thomas golubi\u00e4\u2021": {
+                "name_of_work": "better call saul",
+                "winner": false
+            },
+            "jen malone": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "adam leber": {
+                "name_of_work": "euphoria",
+                "winner": false
+            },
+            "kier lehman": {
+                "name_of_work": "insecure",
+                "winner": false
+            },
+            "catherine grieves": {
+                "name_of_work": "killing eve",
+                "winner": false
+            },
+            "david holmes": {
+                "name_of_work": "killing eve",
+                "winner": false
+            },
+            "robin urdang": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": true
+            },
+            "amy sherman-palladino": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": true
+            },
+            "daniel palladino": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": true
+            },
+            "nora felder": {
+                "name_of_work": "stranger things",
+                "winner": false
+            },
+            "liza richardson": {
+                "name_of_work": "watchmen",
+                "winner": false
+            },
+            "kamasi washington": {
+                "name_of_work": "becoming",
+                "winner": false
+            },
+            "amanda jones": {
+                "name_of_work": "home",
+                "winner": false
+            },
+            "pinar toprak": {
+                "name_of_work": "mcmillion$",
+                "winner": false
+            },
+            "alex kovacs": {
+                "name_of_work": "mcmillion$",
+                "winner": false
+            },
+            "mark mothersbaugh": {
+                "name_of_work": "tiger king: murder, mayhem and madness",
+                "winner": false
+            },
+            "john enroth": {
+                "name_of_work": "tiger king: murder, mayhem and madness",
+                "winner": false
+            },
+            "albert fox": {
+                "name_of_work": "tiger king: murder, mayhem and madness",
+                "winner": false
+            }
+        },
+        "directing": {
+            "benjamin caron": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "jessica hobbs": {
+                "name_of_work": "the crown",
+                "winner": false
+            },
+            "lesli linka glatter": {
+                "name_of_work": "homeland",
+                "winner": false
+            },
+            "mimi leder": {
+                "name_of_work": "the morning show",
+                "winner": false
+            },
+            "alik sakharov": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "ben semanoff": {
+                "name_of_work": "ozark",
+                "winner": false
+            },
+            "andrij parekh": {
+                "name_of_work": "succession",
+                "winner": true
+            },
+            "mark mylod": {
+                "name_of_work": "succession",
+                "winner": false
+            },
+            "matt shakman": {
+                "name_of_work": "the great",
+                "winner": false
+            },
+            "amy sherman-palladino": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "daniel palladino": {
+                "name_of_work": "the marvelous mrs. maisel",
+                "winner": false
+            },
+            "gail mancuso": {
+                "name_of_work": "modern family",
+                "winner": false
+            },
+            "ramy youssef": {
+                "name_of_work": "ramy",
+                "winner": false
+            },
+            "andrew cividino": {
+                "name_of_work": "schitt's creek",
+                "winner": true
+            },
+            "daniel levy": {
+                "name_of_work": "schitt's creek",
+                "winner": true
+            },
+            "james burrows": {
+                "name_of_work": "will & grace",
+                "winner": false
+            },
+            "dime davis": {
+                "name_of_work": "a black lady sketch show",
+                "winner": false
+            },
+            "david paul meyer": {
+                "name_of_work": "the daily show with trevor noah",
+                "winner": false
+            },
+            "paul pennolino": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "christopher werner": {
+                "name_of_work": "last week tonight with john oliver",
+                "winner": false
+            },
+            "jim hoskinson": {
+                "name_of_work": "the late show with stephen colbert",
+                "winner": false
+            },
+            "don roy king": {
+                "name_of_work": "saturday night live",
+                "winner": true
+            },
+            "linda mendoza": {
+                "name_of_work": "tiffany haddish presents: they ready",
+                "winner": false
+            },
+            "stan lathan": {
+                "name_of_work": "dave chappelle: sticks & stones",
+                "winner": true
+            },
+            "louis j. horvitz": {
+                "name_of_work": "62nd grammy awards",
+                "winner": false
+            },
+            "pamela fryman": {
+                "name_of_work": "live in front of a studio audience: \"all in the family\" and \"good times\"",
+                "winner": false
+            },
+            "andy fisher": {
+                "name_of_work": "live in front of a studio audience: \"all in the family\" and \"good times\"",
+                "winner": false
+            },
+            "hamish hamilton": {
+                "name_of_work": "super bowl liv halftime show starring jennifer lopez and shakira",
+                "winner": false
+            },
+            "glenn weiss": {
+                "name_of_work": "73rd annual tony awards",
+                "winner": false
+            },
+            "greg whiteley": {
+                "name_of_work": "cheer",
+                "winner": true
+            },
+            "rich kim": {
+                "name_of_work": "lego masters",
+                "winner": false
+            },
+            "hisham abed": {
+                "name_of_work": "queer eye",
+                "winner": false
+            },
+            "nick murray": {
+                "name_of_work": "rupaul's drag race",
+                "winner": false
+            },
+            "ariel boles": {
+                "name_of_work": "top chef",
+                "winner": false
+            },
+            "lynn shelton": {
+                "name_of_work": "little fires everywhere",
+                "winner": false
+            },
+            "lenny abrahamson": {
+                "name_of_work": "normal people",
+                "winner": false
+            },
+            "maria schrader": {
+                "name_of_work": "unorthodox",
+                "winner": true
+            },
+            "nicole kassell": {
+                "name_of_work": "watchmen",
+                "winner": false
+            },
+            "steph green": {
+                "name_of_work": "watchmen",
+                "winner": false
+            },
+            "stephen williams": {
+                "name_of_work": "watchmen",
+                "winner": false
+            },
+            "steven bognar": {
+                "name_of_work": "american factory",
+                "winner": true
+            },
+            "julia reichert": {
+                "name_of_work": "american factory",
+                "winner": true
+            },
+            "todd douglas miller": {
+                "name_of_work": "apollo 11",
+                "winner": false
+            },
+            "nadia hallgren": {
+                "name_of_work": "becoming",
+                "winner": false
+            },
+            "feras fayyad": {
+                "name_of_work": "the cave",
+                "winner": false
+            },
+            "jason hehir": {
+                "name_of_work": "the last dance",
+                "winner": false
+            },
+            "eric goode": {
+                "name_of_work": "tiger king: murder, mayhem and madness",
+                "winner": false
+            },
+            "rebecca chaiklin": {
+                "name_of_work": "tiger king: murder, mayhem and madness",
+                "winner": false
+            }
+        }
+    }
+}

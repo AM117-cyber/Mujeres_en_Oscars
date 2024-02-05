@@ -1,0 +1,120 @@
+<script>
+    let topStaff2;
+    fetch('awards_all.json')
+      .then(response => response.json())
+      .then(data => {
+          jsonData = data;
+          updateChart2();
+      });
+    
+      function getTopStaff2(awardData, gender) {
+      let counts = {};
+  
+      for (let year in awardData) {
+          for (let category in awardData[year]) {
+              for (let staff_member in awardData[year][category]) {
+                  let staffData = awardData[year][category][staff_member];
+                  if (staffData.gender === gender) {
+                      if (!counts[category]) {
+                          counts[category] = {};
+                      }
+                      if (!counts[category][staff_member]) {
+                          counts[category][staff_member] = { count: 0, years: [] };
+                      }
+                      counts[category][staff_member].count++;
+                      counts[category][staff_member].years.push(year);
+                  }
+              }
+          }
+      }
+  
+      let topStaff2 = {};
+      for (let category in counts) {
+          let staffCounts = Object.entries(counts[category]).map(([name, data]) => ({ name, count: data.count, years: data.years }));
+          staffCounts.sort((a, b) => b.count - a.count);
+          topStaff2[category] = staffCounts.slice(0, 10);
+      }
+  
+      return topStaff2;
+  }
+    function createChart2(topStaff2) {
+
+        let selectedCategory = document.getElementById('categorySelect2').value;
+        let selectedGender = document.getElementById('genderSelect2').value;
+    
+        // Get the context of the canvas element we want to select
+        var ctx = document.getElementById('barChartTwoAwards').getContext('2d');
+    
+        // Clear any existing chart
+        if (window.barChartTwoAwards instanceof Chart) {
+            window.barChartTwoAwards.destroy();
+        }
+    
+        let labels = [];
+        let data = [];
+      let tooltipItems = [];
+      for (let i = 0; i < topStaff2[selectedCategory].length; i++) {
+          labels.push(topStaff2[selectedCategory][i].name); // staff member's name
+          data.push(topStaff2[selectedCategory][i].count); // staff member's count
+          tooltipItems.push(topStaff2[selectedCategory][i].years.join(', ')); // staff member's years
+          console.log(tooltipItems)
+      }
+    
+        // Set the color based on the selected gender
+        let color = selectedGender === 'male' ? 'rgb(0, 0, 255)' : 'rgba(244, 0, 122, 0.6)'; // Blue for male, pink for female
+        let border = selectedGender === 'male' ? 'rgba(7, 3, 216,3)' : 'rgba(244, 0, 122, 1.3)'; // Blue for male, pink for female
+        // Create the chart
+        window.barChartTwoAwards = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: selectedCategory,
+                    data: data,
+                    backgroundColor: color,
+                    borderColor: border,
+                    borderWidth: 1.5
+                }]
+            },
+            options: {
+               tooltips: {
+                    enabled: true,
+                    mode: 'single',
+                    callbacks: {
+                         label: function(tooltipItems, data) {
+                         let label = data.labels[tooltipItems.index];
+                         let value = data.datasets[tooltipItems.datasetIndex].data[tooltipItems.index];
+                         let years = 5;
+                    return `${label}: ${value} (5)`;
+                     }
+                  }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            display: false // Hide the grid lines
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false // Hide the grid lines
+                        }
+                    }
+                }
+            }
+        });
+    }
+    // Update the chart when the selected category or gender changes
+    document.getElementById('categorySelect2').addEventListener('change', updateChart2);
+  document.getElementById('genderSelect2').addEventListener('change', updateChart2);
+  document.getElementById('awardSelect').addEventListener('change', updateChart2);
+  
+    function updateChart2() {
+      let selectedGender = document.getElementById('genderSelect2').value;
+      let selectedAward = document.getElementById('awardSelect').value;
+      topStaff2 = getTopStaff2(jsonData[selectedAward], selectedGender);
+      createChart2(topStaff2);
+  }
+    
+    </script>
